@@ -35,7 +35,6 @@ Install the Thai language pack via composer is never easier.
 ```
 composer require mageplaza/magento-2-thai-language-pack:dev-master
 php bin/magento setup:static-content:deploy th_TH
-php bin/magento cache:clean
 php bin/magento cache:flush
 
 ```
@@ -46,8 +45,6 @@ php bin/magento cache:flush
 ```
 composer update mageplaza/magento-2-thai-language-pack:dev-master
 php bin/magento setup:static-content:deploy th_TH
-php bin/magento indexer:reindex
-php bin/magento cache:clean
 php bin/magento cache:flush
 
 ```
