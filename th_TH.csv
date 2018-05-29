@@ -427,56 +427,56 @@ Debug,Debug,module,Magento_Authorizenet
 "Minimum Order Total","Minimum Order Total",module,Magento_Authorizenet
 "Maximum Order Total","Maximum Order Total",module,Magento_Authorizenet
 "Sort Order","Sort Order",module,Magento_Authorizenet
-"Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page.",module,Magento_Backend
-"You entered an invalid Secret Key. Please refresh the page.","You entered an invalid Secret Key. Please refresh the page.",module,Magento_Backend
-"Cache Storage Management","Cache Storage Management",module,Magento_Backend
-"Flush Magento Cache","Flush Magento Cache",module,Magento_Backend
-"The cache storage may contain additional data. Are you sure that you want to flush it?","The cache storage may contain additional data. Are you sure that you want to flush it?",module,Magento_Backend
-"Flush Cache Storage","Flush Cache Storage",module,Magento_Backend
+"Invalid Form Key. Please refresh the page.","รหัสฟอร์มไม่ถูกต้อง กรุณารีเฟรชหน้า",module,Magento_Backend
+"You entered an invalid Secret Key. Please refresh the page.","คุณป้อนรหัสลับไม่ถูกต้อง กรุณารีเฟรชหน้า",module,Magento_Backend
+"Cache Storage Management",การจัดการที่เก็บแคช,module,Magento_Backend
+"Flush Magento Cache","ล้างแคชของ Magento",module,Magento_Backend
+"The cache storage may contain additional data. Are you sure that you want to flush it?","ที่จัดเก็บแคชอาจประกอบด้วยข้อมูลอื่นเพิ่มเติม คุณแน่ใจหรือไม่ว่าต้องการล้างมัน?",module,Magento_Backend
+"Flush Cache Storage",ล้างที่เก็บแคช,module,Magento_Backend
 Invalidated,Invalidated,module,Magento_Backend
-Orders,Orders,module,Magento_Backend
-Amounts,Amounts,module,Magento_Backend
-Bestsellers,Bestsellers,module,Magento_Backend
-"Most Viewed Products","Most Viewed Products",module,Magento_Backend
-"New Customers","New Customers",module,Magento_Backend
-Customers,Customers,module,Magento_Backend
-Customer,Customer,module,Magento_Backend
-Guest,Guest,module,Magento_Backend
-Items,Items,module,Magento_Backend
-Total,Total,module,Magento_Backend
-"Lifetime Sales","Lifetime Sales",module,Magento_Backend
-"Average Order","Average Order",module,Magento_Backend
-Average,Average,module,Magento_Backend
-Product,Product,module,Magento_Backend
-Price,Price,module,Magento_Backend
-Quantity,Quantity,module,Magento_Backend
-Views,Views,module,Magento_Backend
-Revenue,Revenue,module,Magento_Backend
-Tax,Tax,module,Magento_Backend
-Shipping,Shipping,module,Magento_Backend
-"Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)",module,Magento_Backend
-"Media (.avi, .flv, .swf)","Media (.avi, .flv, .swf)",module,Magento_Backend
-"All Files","All Files",module,Magento_Backend
-"Reset to Default","Reset to Default",module,Magento_Backend
-"All Store Views","All Store Views",module,Magento_Backend
-"What is this?","What is this?",module,Magento_Backend
-"Save Account","Save Account",module,Magento_Backend
-"My Account","My Account",module,Magento_Backend
-"Account Information","Account Information",module,Magento_Backend
-"User Name","User Name",module,Magento_Backend
-"First Name","First Name",module,Magento_Backend
-"Last Name","Last Name",module,Magento_Backend
-Email,Email,module,Magento_Backend
-"User Email","User Email",module,Magento_Backend
-"New Password","New Password",module,Magento_Backend
-"Password Confirmation","Password Confirmation",module,Magento_Backend
-"Interface Locale","Interface Locale",module,Magento_Backend
-"Current User Identity Verification","Current User Identity Verification",module,Magento_Backend
-"Your Password","Your Password",module,Magento_Backend
-"Save Cache Settings","Save Cache Settings",module,Magento_Backend
+Orders,รายการสั่งซื้อ,module,Magento_Backend
+Amounts,ยอดเงิน,module,Magento_Backend
+Bestsellers,สินค้าที่ขายดี,module,Magento_Backend
+"Most Viewed Products",สินค้าที่ดูมากที่สุด,module,Magento_Backend
+"New Customers",ลูกค้าใหม่,module,Magento_Backend
+Customers,ลูกค้า,module,Magento_Backend
+Customer,ลูกค้า,module,Magento_Backend
+Guest,ผู้ใช้ทั่วไป,module,Magento_Backend
+Items,รายการ,module,Magento_Backend
+Total,รวม,module,Magento_Backend
+"Lifetime Sales",ยอดขายตลอดการใช้งาน,module,Magento_Backend
+"Average Order",สั่งซื้อโดยเฉลี่ย,module,Magento_Backend
+Average,ค่าเฉลี่ย,module,Magento_Backend
+Product,สินค้า,module,Magento_Backend
+Price,ราคา,module,Magento_Backend
+Quantity,จำนวน,module,Magento_Backend
+Views,ดู,module,Magento_Backend
+Revenue,รายได้,module,Magento_Backend
+Tax,ภาษี,module,Magento_Backend
+Shipping,การจัดส่ง,module,Magento_Backend
+"Images (.gif, .jpg, .png)","รูปภาพ (.gif, .jpg, .png)",module,Magento_Backend
+"Media (.avi, .flv, .swf)","สื่อ (.avi, .flv, .swf)",module,Magento_Backend
+"All Files",แฟ้มทั้งหมด,module,Magento_Backend
+"Reset to Default",รีเซ็ตเป็นค่าเริ่มต้น,module,Magento_Backend
+"All Store Views",มุมมองร้านค้าทั้งหมด,module,Magento_Backend
+"What is this?",นี่คืออะไร?,module,Magento_Backend
+"Save Account",บันทึกบัญชี,module,Magento_Backend
+"My Account",บัญชีของฉัน,module,Magento_Backend
+"Account Information",ข้อมูลบัญชี,module,Magento_Backend
+"User Name",ชื่อผู้ใช้,module,Magento_Backend
+"First Name",ชื่อ,module,Magento_Backend
+"Last Name",นามสกุล,module,Magento_Backend
+Email,อีเมล,module,Magento_Backend
+"User Email",อีเมลผู้ใช้,module,Magento_Backend
+"New Password",รหัสผ่านใหม่,module,Magento_Backend
+"Password Confirmation",ยืนยันรหัสผ่าน,module,Magento_Backend
+"Interface Locale",ภาษาของอินเตอร์เฟซ,module,Magento_Backend
+"Current User Identity Verification",ยืนยันตัวตนผู้ใช้ปัจจุบัน,module,Magento_Backend
+"Your Password",รหัสผ่านของคุณ,module,Magento_Backend
+"Save Cache Settings",บันทึกการตั้งค่าแคช,module,Magento_Backend
 "Catalog Rewrites","Catalog Rewrites",module,Magento_Backend
-Refresh,Refresh,module,Magento_Backend
-"Images Cache","Images Cache",module,Magento_Backend
+Refresh,รีเฟรช,module,Magento_Backend
+"Images Cache",แคชรูปภาพ,module,Magento_Backend
 Clear,Clear,module,Magento_Backend
 "Search Index","Search Index",module,Magento_Backend
 Rebuild,Rebuild,module,Magento_Backend
@@ -525,58 +525,58 @@ No,No,module,Magento_Backend
 "Edit Store View","Edit Store View",module,Magento_Backend
 "New Store View","New Store View",module,Magento_Backend
 "Store Information","Store Information",module,Magento_Backend
-"Web Site","Web Site",module,Magento_Backend
-Name,Name,module,Magento_Backend
-Code,Code,module,Magento_Backend
-"Root Category","Root Category",module,Magento_Backend
-"Default Store View","Default Store View",module,Magento_Backend
-"Store View Information","Store View Information",module,Magento_Backend
-Status,Status,module,Magento_Backend
-Disabled,Disabled,module,Magento_Backend
-Enabled,Enabled,module,Magento_Backend
-"Sort Order","Sort Order",module,Magento_Backend
-"Web Site Information","Web Site Information",module,Magento_Backend
-"Default Store","Default Store",module,Magento_Backend
-"Set as Default","Set as Default",module,Magento_Backend
-Stores,Stores,module,Magento_Backend
-"Create Website","Create Website",module,Magento_Backend
-"Create Store","Create Store",module,Magento_Backend
-"Create Store View","Create Store View",module,Magento_Backend
-Home,Home,module,Magento_Backend
-Reset,Reset,module,Magento_Backend
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Backend
-"Add New Image","Add New Image",module,Magento_Backend
+"Web Site",เว็บไซต์,module,Magento_Backend
+Name,ชื่อ,module,Magento_Backend
+Code,รหัส,module,Magento_Backend
+"Root Category",หมวดหมู่หลัก,module,Magento_Backend
+"Default Store View",มุมมองร้านค้าเริ่มต้น,module,Magento_Backend
+"Store View Information",ข้อมูลมุมมองร้านค้า,module,Magento_Backend
+Status,สถานะ,module,Magento_Backend
+Disabled,ปิดการใช้งาน,module,Magento_Backend
+Enabled,เปิดใช้งาน,module,Magento_Backend
+"Sort Order",การเรียงลำดับ,module,Magento_Backend
+"Web Site Information",ข้อมูลเกี่ยวกับเว็บไซต์,module,Magento_Backend
+"Default Store",ร้านค้าเริ่มต้น,module,Magento_Backend
+"Set as Default",ตั้งเป็นค่าเริ่มต้น,module,Magento_Backend
+Stores,ร้านค้า,module,Magento_Backend
+"Create Website",สร้างเว็บไซต์,module,Magento_Backend
+"Create Store",สร้างร้านค้า,module,Magento_Backend
+"Create Store View",สร้างมุมมองร้านค้า,module,Magento_Backend
+Home,หน้าหลัก,module,Magento_Backend
+Reset,รีเซ็ต,module,Magento_Backend
+"Are you sure you want to do this?",คุณแน่ใจว่าต้องการทำเช่นนี้,module,Magento_Backend
+"Add New Image",เพิ่มรูปภาพใหม่,module,Magento_Backend
 "Export block for grid %1 is not defined","Export block for grid %1 is not defined",module,Magento_Backend
-"Reset Filter","Reset Filter",module,Magento_Backend
-Search,Search,module,Magento_Backend
-Any,Any,module,Magento_Backend
-"All Countries","All Countries",module,Magento_Backend
-From,From,module,Magento_Backend
-To,To,module,Magento_Backend
-"Date selector","Date selector",module,Magento_Backend
+"Reset Filter",รีเซ็ตตัวกรอง,module,Magento_Backend
+Search,ค้นหา,module,Magento_Backend
+Any,อะไรก็ได้,module,Magento_Backend
+"All Countries",ทุกประเทศ,module,Magento_Backend
+From,จาก,module,Magento_Backend
+To,ถึง,module,Magento_Backend
+"Date selector",เลือกวันที่,module,Magento_Backend
 "[ deleted ]","[ deleted ]",module,Magento_Backend
-"Select All","Select All",module,Magento_Backend
+"Select All",เลือกทั้งหมด,module,Magento_Backend
 [deleted],[deleted],module,Magento_Backend
 "We couldn't find any records.","We couldn't find any records.",module,Magento_Backend
-"Add New","Add New",module,Magento_Backend
+"Add New",เพิ่มใหม่,module,Magento_Backend
 "Invalid export type supplied for grid export block","Invalid export type supplied for grid export block",module,Magento_Backend
-Export,Export,module,Magento_Backend
-"Please correct the column format and try again.","Please correct the column format and try again.",module,Magento_Backend
-"Please select items.","Please select items.",module,Magento_Backend
-Submit,Submit,module,Magento_Backend
-"Unknown block type","Unknown block type",module,Magento_Backend
-"Please correct the tab configuration and try again. Tab Id should be not empty","Please correct the tab configuration and try again. Tab Id should be not empty",module,Magento_Backend
-"Please correct the tab configuration and try again.","Please correct the tab configuration and try again.",module,Magento_Backend
-"You have logged out.","You have logged out.",module,Magento_Backend
+Export,ส่งออก,module,Magento_Backend
+"Please correct the column format and try again.","กรุณาแก้ไขรูปแบบของคอลัมน์ และลองอีกครั้ง",module,Magento_Backend
+"Please select items.",กรุณาเลือกรายการ,module,Magento_Backend
+Submit,ส่ง,module,Magento_Backend
+"Unknown block type",ประเภทบล็อกที่ไม่รู้จัก,module,Magento_Backend
+"Please correct the tab configuration and try again. Tab Id should be not empty","กรุณาแก้ไขการกำหนดค่าแท็บ และลองอีกครั้ง Id ของแท็บไม่ว่างเปล่า",module,Magento_Backend
+"Please correct the tab configuration and try again.","กรุณาแก้ไขการกำหนดค่าแท็บ และลองอีกครั้ง",module,Magento_Backend
+"You have logged out.",คุณได้ออกจากระบบแล้ว,module,Magento_Backend
 "Specified cache type(s) don't exist: %1","Specified cache type(s) don't exist: %1",module,Magento_Backend
-"The image cache was cleaned.","The image cache was cleaned.",module,Magento_Backend
-"An error occurred while clearing the image cache.","An error occurred while clearing the image cache.",module,Magento_Backend
-"The JavaScript/CSS cache has been cleaned.","The JavaScript/CSS cache has been cleaned.",module,Magento_Backend
-"An error occurred while clearing the JavaScript/CSS cache.","An error occurred while clearing the JavaScript/CSS cache.",module,Magento_Backend
-"The static files cache has been cleaned.","The static files cache has been cleaned.",module,Magento_Backend
-"You flushed the cache storage.","You flushed the cache storage.",module,Magento_Backend
-"The Magento cache storage has been flushed.","The Magento cache storage has been flushed.",module,Magento_Backend
-"Cache Management","Cache Management",module,Magento_Backend
+"The image cache was cleaned.",ล้างแคชภาพแล้ว,module,Magento_Backend
+"An error occurred while clearing the image cache.",ข้อผิดพลาดเกิดขึ้นขณะล้างภาพแคชภาพ,module,Magento_Backend
+"The JavaScript/CSS cache has been cleaned.","ล้างแคช JavaScript/CSS แล้ว",module,Magento_Backend
+"An error occurred while clearing the JavaScript/CSS cache.","ข้อผิดพลาดเกิดขึ้นขณะล้างแคช JavaScript/CSS",module,Magento_Backend
+"The static files cache has been cleaned.",ล้างแคชไฟล์แล้ว,module,Magento_Backend
+"You flushed the cache storage.",คุณล้างที่เก็บข้อมูลแคช,module,Magento_Backend
+"The Magento cache storage has been flushed.","ที่เก็บข้อมูลแคชของ Magento ถูกล้างแล้ว",module,Magento_Backend
+"Cache Management",การจัดการแคช,module,Magento_Backend
 "You can't change status of cache type(s) in production mode","You can't change status of cache type(s) in production mode",module,Magento_Backend
 "%1 cache type(s) disabled.","%1 cache type(s) disabled.",module,Magento_Backend
 "An error occurred while disabling cache.","An error occurred while disabling cache.",module,Magento_Backend
@@ -8342,6 +8342,7 @@ Action,Action,module,Magento_Reports
 Report,Report,module,Magento_Reports
 Description,Description,module,Magento_Reports
 undefined,undefined,module,Magento_Reports
+"Item in Cart","Item in Cart",module,Magento_Reports
 "Save Review","Save Review",module,Magento_Review
 "New Review","New Review",module,Magento_Review
 "Review Details","Review Details",module,Magento_Review
