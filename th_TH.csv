@@ -3175,46 +3175,46 @@ Enable,Enable,module,Magento_Cms
 "Custom Layout","Custom Layout",module,Magento_Cms
 """identifiers"" of CMS blocks should be specified","""identifiers"" of CMS blocks should be specified",module,Magento_CmsGraphQl
 "The CMS block with the ""%1"" ID doesn't exist.","The CMS block with the ""%1"" ID doesn't exist.",module,Magento_CmsGraphQl
-"""Page id should be specified","""Page id should be specified",module,Magento_CmsGraphQl
+"""Page id should be specified",ควรระบุรหัสหน้า,module,Magento_CmsGraphQl
 cms_page,cms_page,module,Magento_CmsStaging
 cms_block,cms_block,module,Magento_CmsStaging
 "Magento\Cms\Api\Data\BlockInterface","Magento\Cms\Api\Data\BlockInterface",module,Magento_CmsStaging
 "Magento\Cms\Api\Data\PageInterface","Magento\Cms\Api\Data\PageInterface",module,Magento_CmsStaging
-"This block no longer exists.","This block no longer exists.",module,Magento_CmsStaging
+"This block no longer exists.",ไม่มีไฟล์นี้อีกต่อไป,module,Magento_CmsStaging
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update.",module,Magento_CmsStaging
-Error,Error,module,Magento_CmsStaging
-"Currently Active","Currently Active",module,Magento_CmsStaging
-"New Theme","New Theme",module,Magento_CmsStaging
-"-- Please Select --","-- Please Select --",module,Magento_CmsStaging
-"Scheduled Changes","Scheduled Changes",module,Magento_CmsStaging
-Name,Name,module,Magento_CmsStaging
-Description,Description,module,Magento_CmsStaging
-Action,Action,module,Magento_CmsStaging
-"Update Information","Update Information",module,Magento_CmsStaging
-"Schedule Update","Schedule Update",module,Magento_CmsStaging
-"Update Name","Update Name",module,Magento_CmsStaging
-"Start Date","Start Date",module,Magento_CmsStaging
-"End Date","End Date",module,Magento_CmsStaging
-"General Information","General Information",module,Magento_CmsStaging
-"Enable Block","Enable Block",module,Magento_CmsStaging
-"Block Title","Block Title",module,Magento_CmsStaging
-Identifier,Identifier,module,Magento_CmsStaging
-"Store View","Store View",module,Magento_CmsStaging
-"Save as a New Update","Save as a New Update",module,Magento_CmsStaging
-"Move to Another Update","Move to Another Update",module,Magento_CmsStaging
-"Delete the Update","Delete the Update",module,Magento_CmsStaging
-"The block will be removed from the update and all scheduled changes will be lost.","The block will be removed from the update and all scheduled changes will be lost.",module,Magento_CmsStaging
+Error,ผิดพลาด!,module,Magento_CmsStaging
+"Currently Active",กำลังใช้งานอยู่,module,Magento_CmsStaging
+"New Theme",ธีมใหม่,module,Magento_CmsStaging
+"-- Please Select --","-- โปรดเลือก-",module,Magento_CmsStaging
+"Scheduled Changes",กำหนดการ,module,Magento_CmsStaging
+Name,ชื่อ,module,Magento_CmsStaging
+Description,รายละเอียด,module,Magento_CmsStaging
+Action,ดำเนินการ,module,Magento_CmsStaging
+"Update Information",แก้ไขข้อมูล,module,Magento_CmsStaging
+"Schedule Update",กำหนดการปรับปรุง,module,Magento_CmsStaging
+"Update Name",เปลี่ยนชื่อ,module,Magento_CmsStaging
+"Start Date",วันที่เริ่มต้น,module,Magento_CmsStaging
+"End Date",ถึงวันที่,module,Magento_CmsStaging
+"General Information",ข้อมูลทั่วไป,module,Magento_CmsStaging
+"Enable Block",เปิดใช้งานบล็อก,module,Magento_CmsStaging
+"Block Title",หัวข้อ,module,Magento_CmsStaging
+Identifier,ยืนยัน,module,Magento_CmsStaging
+"Store View",มุมมองร้าน,module,Magento_CmsStaging
+"Save as a New Update",บันทึกเป็นการปรับปรุงใหม่,module,Magento_CmsStaging
+"Move to Another Update",ย้ายการปรับปรุงอื่น,module,Magento_CmsStaging
+"Delete the Update",ลบการปรับปรุง,module,Magento_CmsStaging
+"The block will be removed from the update and all scheduled changes will be lost.","บล็อกจะถูกเอาออกจากการปรับปรุง และเปลี่ยนแปลงตามกำหนดการทั้งหมดจะหายไป",module,Magento_CmsStaging
 200,200,module,Magento_CmsStaging
 100,100,module,Magento_CmsStaging
 50,50,module,Magento_CmsStaging
 30,30,module,Magento_CmsStaging
 20,20,module,Magento_CmsStaging
-"Start Time","Start Time",module,Magento_CmsStaging
-"End Time","End Time",module,Magento_CmsStaging
-"Remove CMS page from Update","Remove CMS page from Update",module,Magento_CmsStaging
-"Enable Page","Enable Page",module,Magento_CmsStaging
-"Page Title","Page Title",module,Magento_CmsStaging
-Content,Content,module,Magento_CmsStaging
+"Start Time",วันที่เริ่มต้น,module,Magento_CmsStaging
+"End Time",เวลาสิ้นสุด,module,Magento_CmsStaging
+"Remove CMS page from Update","เอาหน้า CMS จากการ Update",module,Magento_CmsStaging
+"Enable Page",เปิดใช้งานหน้า,module,Magento_CmsStaging
+"Page Title",ชื่อหน้า,module,Magento_CmsStaging
+Content,เนื้อหา,module,Magento_CmsStaging
 "Content Heading","Content Heading",module,Magento_CmsStaging
 "Search Engine Optimisation","Search Engine Optimisation",module,Magento_CmsStaging
 "URL Key","URL Key",module,Magento_CmsStaging
