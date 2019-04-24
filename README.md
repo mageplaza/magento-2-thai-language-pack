@@ -117,11 +117,13 @@ To download and install Thai pack manually, you have to access to your server vi
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/th_th/th_TH.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/th_th/`
 
-See this screenshot
+See this screenshot:
 
 ![Thai pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **th_th**
 
 #### Step 2: Flush cache
 
