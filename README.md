@@ -4,7 +4,7 @@
 
 Read more [Magento 2 Thai Language Pack](https://www.mageplaza.com/magento-2-thai-language-pack.html)
 
-![Mageplaza Thai language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza Thai language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
