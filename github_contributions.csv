@@ -2,3 +2,21 @@ Mageplaza,Mageplaza
 All,ทั้งหมด,module,Magento_AdminGws
 None,ไม่มี,module,Magento_AdminGws
 "Add Products","เพิ่มสินค้า",module,Magento_AdvancedCheckout
+Delete,ลบ,module,Magento_Catalog
+Save,บันทึก,module,Magento_Catalog
+ID,ไอดี,module,Magento_Catalog
+Name,ชื่อ,module,Magento_Catalog
+SKU,รหัสสินค้า,module,Magento_Catalog
+Price,ราคา,module,Magento_Catalog
+Position,ตำแหน่ง,module,Magento_Catalog
+"Add Subcategory","เพิ่มหมวดหมู่ย่อย",module,Magento_Catalog
+"Add Root Category","เพิ่มหมวดหมู่หลัก",module,Magento_Catalog
+Day,วัน,module,Magento_Catalog
+Month,เดือน,module,Magento_Catalog
+Year,ปี,module,Magento_Catalog
+from,จาก,module,Magento_Catalog
+to,ถึง,module,Magento_Catalog
+"Add Product","เพิ่มสินค้า",module,Magento_Catalog
+"Product Attributes","คุณสมบัติสินค้า",module,Magento_Catalog
+"Add New Attribute","เพิ่มคุณสมบัติใหม่",module,Magento_Catalog
+Cancel,ยกเลิก,module,Magento_Catalog
