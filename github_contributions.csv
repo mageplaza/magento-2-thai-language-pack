@@ -20,3 +20,44 @@ to,ถึง,module,Magento_Catalog
 "Product Attributes","คุณสมบัติสินค้า",module,Magento_Catalog
 "Add New Attribute","เพิ่มคุณสมบัติใหม่",module,Magento_Catalog
 Cancel,ยกเลิก,module,Magento_Catalog
+"Save Attribute","บันทึก คุณสมบัติ",module,Magento_Catalog
+"Save in New Attribute Set","บันทึกในเซ็ตคุณสมบัติใหม่",module,Magento_Catalog
+"Enter Name for New Attribute Set","ระบุชื่อสำหรับเซ็ตคุณสมัติใหม่",module,Magento_Catalog
+"Save and Continue Edit","บันทึกและแก้ไขต่อไป",module,Magento_Catalog
+"Delete Attribute","ลบคุณสมบัติ",module,Magento_Catalog
+"Edit Product Attribute ""%1""","แก้ไขคุณสมบัติสินค้า ""%1""",module,Magento_Catalog
+"New Product Attribute","สร้างคุณสมบัติสินค้า",module,Magento_Catalog
+"Default Value","ค่าเริ่มต้น",module,Magento_Catalog
+"Unique Value","ค่าที่ไม่ซ้ำ",module,Magento_Catalog
+"Unique Value (not shared with other products)","ค่าที่ไม่ซ้ำ (ไม่ใช้ร่วมกันกับสินค้าอื่น)",module,Magento_Catalog
+"Not shared with other products.","ไม่ใช้ร่วมกันกับสินค้าอื่น",module,Magento_Catalog
+"Add to Column Options","เพิ่มไปยังตัวเลือกคอลัม",module,Magento_Catalog
+"Select ""Yes"" to add this attribute to the list of column options in the product grid.","เลือก ""ใช่"" เพื่อเพิ่มคุณสมบัตินี้ ไปในรายการตัวเลือกคอลัม ที่หน้าโปรดักกริด",module,Magento_Catalog
+"Use in Filter Options","ใช้ในตัวเลือกฟิลเตอร์",module,Magento_Catalog
+"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","เลือก ""ใช่"" เพื่อเพิ่มคุณสมบัตินี้ ไปในรายการตัวเลือกฟิลเตอร์ ที่หน้าโปรดักกริด",module,Magento_Catalog
+"Store View","สโตร์วิว",module,Magento_Catalog
+Website,เว็บไซต์,module,Magento_Catalog
+"Storefront Properties","คุณสมบัติ ของสโตร์ฟร้อนท์",module,Magento_Catalog
+"Use in Search","ใช้ในการค้นหา",module,Magento_Catalog
+"Visible in Advanced Search","แสดงในการค้นหาขั้นสูง",module,Magento_Catalog
+"Comparable on Storefront","เปรียบเทียบได้ ที่หน้าสโตร์ฟร้อนท์",module,Magento_Catalog
+"Enable WYSIWYG","เปิดใช้งาน WYSIWYG",module,Magento_Catalog
+"Allow HTML Tags on Storefront","อนุญาตให้ใช้ HTML Tags ที่หน้าสโตร์ฟร้อนท์",module,Magento_Catalog
+"Visible on Catalog Pages on Storefront","แสดงในหน้าแคตตาล็อก ที่หน้าสโตร์ฟร้อนท์",module,Magento_Catalog
+"Depends on design theme.","ขึ้นอยู่กับการออกแบบธีม",module,Magento_Catalog
+"Media Image","มีเดีย ภาพ",module,Magento_Catalog
+Gallery,แกลเลอรี่,module,Magento_Catalog
+No,ไม่,module,Magento_Catalog
+Yes,ใช่,module,Magento_Catalog
+"Data Type for Saving in Database","ประเภทข้อมูลสำหรับ บันทึกในฐานข้อมูล",module,Magento_Catalog
+Datetime,วันเวลา,module,Magento_Catalog
+Decimal,ทศนิยม,module,Magento_Catalog
+"Attribute Information","ข้อมูลคุณสมบัติ",module,Magento_Catalog
+Visible,แสดง,module,Magento_Catalog
+"Web Site","เว็บไซต์",module,Magento_Catalog
+Searchable,ค้นหาได้,module,Magento_Catalog
+Comparable,เปรียบเทียบได้,module,Magento_Catalog
+"Delete Selected Group","ลบกลุ่มที่เลือก",module,Magento_Catalog
+"Add New","สร้างใหม่",module,Magento_Catalog
+Back,กลับ,module,Magento_Catalog
+Reset,รีเซ็ต,module,Magento_Catalog
