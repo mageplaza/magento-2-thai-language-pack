@@ -1,2 +1,75 @@
 Mageplaza,Mageplaza
 All,ทั้งหมด,module,Magento_AdminGws
+Banners,แบนเนอร์,module,Magento_Banner
+Add Banner,เพิ่มแบนเนอร์,module,Magento_Banner
+Save Banner,บันทึกแบนเนอร์,module,Magento_Banner
+Delete Banner,ลบแบนเนอร์,module,Magento_Banner
+Save and Continue Edit,บันทึกและแก้ไขต่อ,module,Magento_Banner
+New Banner,สร้างแบนเนอร์ใหม่,module,Magento_Banner
+Content,เนื้อหา,module,Magento_Banner
+Default Content,เนื้อหา ค่าเริ่มต้น,module,Magento_Banner
+No Default Content,ไม่มีค่าเริ่มต้น ของเนื้อหา,module,Magento_Banner
+Banner Default Content for All Store Views,แบนเนอร์ค่าเริ่มต้น สำหรับทุกมุมมองร้านค้า,module,Magento_Banner
+Store View Specific Content,เนื้อหา สำหรับมุมมองร้านค้าที่ระบุ,module,Magento_Banner
+Use Default,ใช้ค่าเริ่มต้น,module,Magento_Banner
+Related Promotions,โปรโมชั่นที่เกี่ยวข้อง,module,Magento_Banner
+ID,รหัส,module,Magento_Banner
+Rule,เงื่อนไข,module,Magento_Banner
+Start Date,วันที่เริ่มต้น,module,Magento_Banner
+End Date,วันที่สิ้นสุด,module,Magento_Banner
+Status,สถานะ,module,Magento_Banner
+Banner Properties,คุณสมบัติแบนเนอร์,module,Magento_Banner
+Banner Name,ชื่อแบนเนอร์,module,Magento_Banner
+Active,ทำงาน,module,Magento_Banner
+Inactive,ไม่ทำงาน,module,Magento_Banner
+Applies To,นำไปใช้กับ,module,Magento_Banner
+Any Banner Type,ปรเภทแบนเนอร์ใดๆ,module,Magento_Banner
+Specified Banner Types,ประเภทแบนเนอร์ที่ระบุ,module,Magento_Banner
+Specify Types,ระบุประเภท,module,Magento_Banner
+Banner Information,ข้อมูลแบนเนอร์,module,Magento_Banner
+Banner,แบนเนอร์,module,Magento_Banner
+Banner Type,ประเภทแบนเนอร์,module,Magento_Banner
+Visibility,การมองเห็น,module,Magento_Banner
+Delete,ลบ,module,Magento_Banner
+Are you sure you want to delete these banners?,คุณแน่ใจใช่ไหม ที่จะลบแบนเนอร์เหล่านี้?,module,Magento_Banner
+Related Banners,แบนเนอร์ที่เกี่ยวข้อง,module,Magento_Banner
+Position,ตำแหน่ง,module,Magento_Banner
+This rule no longer exists.,เงื่อนไขนี้ไม่มีอยู่แล้ว,module,Magento_Banner
+This banner does not exist.,ไม่มีแบนเนอร์นี้,module,Magento_Banner
+You deleted the banner.,ลบแบนเนอร์แล้ว,module,Magento_Banner
+Something went wrong while deleting banner data. Please review the action log and try again.,เกิดข้อผิดพลาดขณะลบข้อมูลแบนเนอร์ โปรดตรวจสอบบันทึกการทำงานแล้วลองอีกครั้ง,module,Magento_Banner
+We cannot find a banner to delete.,เราไม่พบแบนเนอร์ที่จะลบ,module,Magento_Banner
+This banner no longer exists.,แบนเนอร์นี้ไม่มีอยู่อีกต่อไป,module,Magento_Banner
+Edit Banner,แก้ไขแบนเนอร์,module,Magento_Banner
+Please select a banner(s).,กรุณาเลือกแบนเนอร์,module,Magento_Banner
+You deleted %1 record(s).,ลบ %1รายการแล้ว,module,Magento_Banner
+Something went wrong while mass-deleting banners. Please review the action log and try again.,เกิดข้อผิดพลาดบางอย่างขณะลบแบนเนอร์จำนวนมาก โปรดตรวจสอบบันทึกการทำงานแล้วลองอีกครั้ง,module,Magento_Banner
+You saved the banner.,บันทึกแบนเนอร์แล้ว,module,Magento_Banner
+We cannot save the banner.,ไม่สามารถบันทึกแบนเนอร์ได้,module,Magento_Banner
+Please enter a name.,กรุณาระบุชื่อ,module,Magento_Banner
+Please specify default content for at least one store view.,กรุณาระบุเนื้อหาเริ่มต้น สำหรับอย่างน้อย 1 มุมมองร้านค้า,module,Magento_Banner
+-- None --,-- ไม่มี --,module,Magento_Banner
+Error,พบความผิดพลาด,module,Magento_Banner
+Related Cart Price Rules,เงื่อนไขราคาตะกร้าสินค้า ที่เกี่ยวข้อง,module,Magento_Banner
+Related Catalog Price Rules,เงื่อนไขแค็ตตาล็อกราคา ที่เกี่ยวข้อง,module,Magento_Banner
+Content Area,พื้นที่เนื้อหา,module,Magento_Banner
+Footer,ส่วนท้าย,module,Magento_Banner
+Header,ส่วนหัว,module,Magento_Banner
+Left Column,คอลัมซ้าน,module,Magento_Banner
+Right Column,คอลัมขวา,module,Magento_Banner
+Manage Banners,จัดการแบนเนอร์,module,Magento_Banner
+Banner Rotator,แบนเนอร์ เลื่อนไปมา,module,Magento_Banner
+Displays Specified or Promotion Banners,แสดงแบนเนอร์ที่ระบุ หรือ โปรโมชั่นแบนเนอร์,module,Magento_Banner
+Banners to Display,แบนเนอร์ที่แสดง,module,Magento_Banner
+Specified Banners,แบนเนอร์ที่ระบุ,module,Magento_Banner
+Shopping Cart Promotions Related,โปรโมชั่นตะกร้าสินค้า ที่เกี่ยวข้อง,module,Magento_Banner
+Catalog Promotions Related,แค็ตตาล็อกโปรโมชั่น ที่เกี่ยวข้อง,module,Magento_Banner
+Restrict by Banner Types,จำกัดโดยประเภทแบนเนอร์,module,Magento_Banner
+Rotation Mode,โหมดการ เปลี่ยนภาพ,module,Magento_Banner
+Display all instead of rotating,แดสงทั้งหมด แทนการเปลี่ยนทีละภาพ,module,Magento_Banner
+"One at the time, Random","One at the time, Random",module,Magento_Banner
+"One at the time, Series","One at the time, Series",module,Magento_Banner
+"One at the time, Shuffle","One at the time, Shuffle",module,Magento_Banner
+Specify Banners,ระบุแบนเนอร์,module,Magento_Banner
+Banner Block Template,แบนเนอร์ บล็อก เทมเพลต,module,Magento_Banner
+Banner Inline Template,แบนเนอร์ อินไลน์ เทมเพลต,module,Magento_Banner
