@@ -4,6 +4,7 @@
 
 Read more [Magento 2 Thai Language Pack](https://www.mageplaza.com/magento-2-thai-language-pack.html)
 
+![Mageplaza Thai language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
@@ -19,7 +20,7 @@ Read more [Magento 2 Thai Language Pack](https://www.mageplaza.com/magento-2-tha
 
 This is status of Thai Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/1?title=translated)
+![language pack](https://progress-bar.dev/15/?title=translated)
 
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
@@ -117,18 +118,20 @@ To download and install Thai pack manually, you have to access to your server vi
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/th_th/th_TH.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/th_th/`
 
-See this screenshot
+See this screenshot:
 
-![Thai pack](https://i.imgur.com/tS668yC.png)
+![Thai pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **th_th**
 
 #### Step 2: Flush cache
 
 Follow this guide to [Flush Cache on your Magento 2 store](https://www.mageplaza.com/kb/how-flush-enable-disable-cache.html)
 
 
-## 3. How to active Thai language pack 
+## 3. How to Active the Thai language pack 
 
 Now time to active the Thai language pack for your Magento 2 store. From Magento 2 admin panel, navigate to `Stores > Configuration > General > Locale Options`
 ![{{Magento 2 Thai language pack}}](https://cdn.mageplaza.com/media/general/aPSUA0l.png)
@@ -143,7 +146,7 @@ Contribute to this language at :
 
 ## 5. Supported Magento versions
 
-It supports all Magento 2 versions include [Magento 2 open-source](https://www.mageplaza.com/download-magento/) (Community), Magento 2 Commerce (EE).
+It supports all Magento 2 versions include [Magento 2 open-source](https://www.mageplaza.com/download-magento/) (Community), Magento 2 Commerce (EE), Magento Cloud, Magento B2B, Magento MSI.
 
 
 - Magento v2.0.x

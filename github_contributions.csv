@@ -73,3 +73,6 @@ Display all instead of rotating,แดสงทั้งหมด แทนก�
 Specify Banners,ระบุแบนเนอร์,module,Magento_Banner
 Banner Block Template,แบนเนอร์ บล็อก เทมเพลต,module,Magento_Banner
 Banner Inline Template,แบนเนอร์ อินไลน์ เทมเพลต,module,Magento_Banner
+None,ไม่มี,module,Magento_AdminGws
+"Add Products","เพิ่มสินค้า",module,Magento_AdvancedCheckout
+
