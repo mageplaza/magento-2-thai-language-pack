@@ -2,7 +2,7 @@
 "None","ไม่มี",module,Magento_AdminGws
 "Allowed Scopes","Allowed Scopes",module,Magento_AdminGws
 "You need more permissions to delete this item(s): %1.","You need more permissions to delete this item(s): %1.",module,Magento_AdminGws
-"You need more permissions to apply some of the rule updates.","คุณต้องการให้สิทธิ์เพิ่มเติมในการอัพเดท",module,Magento_AdminGws
+"You need more permissions to apply some of the rule updates.","คุณต้องการสิทธิ์เพิ่มเติมในการอัพเดท",module,Magento_AdminGws
 "Please assign this entity to a store view.","Please assign this entity to a store view.",module,Magento_AdminGws
 "You can create orders only in an active store.","You can create orders only in an active store.",module,Magento_AdminGws
 "Please assign this item to a store view.","Please assign this item to a store view.",module,Magento_AdminGws
@@ -29,7 +29,7 @@
 "More permissions are needed to set All Scopes to a Role.","More permissions are needed to set All Scopes to a Role.",module,Magento_AdminGws
 "The ""%1"" website ID is incorrect. Verify the website ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again.",module,Magento_AdminGws
 "The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" store ID is incorrect. Verify the store ID and try again.",module,Magento_AdminGws
-"More permissions are needed to save this setting.","More permissions are needed to save this setting.",module,Magento_AdminGws
+"More permissions are needed to save this setting.","สิทธิ์เพิ่มเติมจำเป็นต่อการบันทึกการตั่งค่านี้",module,Magento_AdminGws
 "Read Details","อ่านรายละเอียด",module,Magento_AdminNotification
 "Mark as Read","ทำเครื่องหมายว่าอ่านแล้ว",module,Magento_AdminNotification
 "Are you sure?","คุณแน่ใจหรือไม่?",module,Magento_AdminNotification
@@ -1123,77 +1123,77 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Enable Backup","Enable Backup",module,Magento_Backup
 "Scheduled Backup Type","Scheduled Backup Type",module,Magento_Backup
 "Disabled by default for security reasons","Disabled by default for security reasons",module,Magento_Backup
-"Banners","Banners",module,Magento_Banner
-"Add Banner","Add Banner",module,Magento_Banner
-"Save Banner","Save Banner",module,Magento_Banner
-"Delete Banner","Delete Banner",module,Magento_Banner
+"Banners","แบนเนอร์",module,Magento_Banner
+"Add Banner","เพิ่มแบนเนอร์",module,Magento_Banner
+"Save Banner","บันทึกแบนเนอร์",module,Magento_Banner
+"Delete Banner","ลบแบนเนอร์",module,Magento_Banner
 "Save and Continue Edit","บันทึก และแก้ไขต่อไป",module,Magento_Banner
-"New Banner","New Banner",module,Magento_Banner
+"New Banner","สร้างแบนเนอร์ใหม่",module,Magento_Banner
 "Content","เนื้อหา",module,Magento_Banner
 "Default Content","เนื้อหาตั้งต้น",module,Magento_Banner
 "No Default Content","ไม่มีเนื้อหาตั้งต้น",module,Magento_Banner
-"Banner Default Content for All Store Views","Banner Default Content for All Store Views",module,Magento_Banner
-"Store View Specific Content","Store View Specific Content",module,Magento_Banner
+"Banner Default Content for All Store Views","แบนเนอร์ค่าเริ่มต้น สำหรับทุกมุมมองร้านค้า",module,Magento_Banner
+"Store View Specific Content","เนื้อหา สำหรับมุมมองร้านค้าที่ระบุ",module,Magento_Banner
 "Use Default","ใช้ค่าเริ่มต้น",module,Magento_Banner
-"Related Promotions","Related Promotions",module,Magento_Banner
+"Related Promotions","โปรโมชั่นที่เกี่ยวข้อง",module,Magento_Banner
 "ID","ไอดี",module,Magento_Banner
 "Rule","กฎ เงื่อนไข",module,Magento_Banner
 "Start Date","วันที่เริ่มต้น",module,Magento_Banner
 "End Date","ถึงวันที่",module,Magento_Banner
 "Status","สถานะ",module,Magento_Banner
-"Banner Properties","Banner Properties",module,Magento_Banner
-"Banner Name","Banner Name",module,Magento_Banner
+"Banner Properties","คุณสมบัติแบนเนอร์",module,Magento_Banner
+"Banner Name","ชื่อแบนเนอร์",module,Magento_Banner
 "Active","ใช้งานอยู่",module,Magento_Banner
 "Inactive","ไม่ใช้งาน",module,Magento_Banner
-"Applies To","Applies To",module,Magento_Banner
-"Any Banner Type","Any Banner Type",module,Magento_Banner
-"Specified Banner Types","Specified Banner Types",module,Magento_Banner
-"Specify Types","Specify Types",module,Magento_Banner
-"Banner Information","Banner Information",module,Magento_Banner
-"Banner","Banner",module,Magento_Banner
-"Banner Type","Banner Type",module,Magento_Banner
-"Visibility","Visibility",module,Magento_Banner
+"Applies To","นำไปใช้กับ",module,Magento_Banner
+"Any Banner Type","ปรเภทแบนเนอร์ใดๆ",module,Magento_Banner
+"Specified Banner Types","ประเภทแบนเนอร์ที่ระบุ",module,Magento_Banner
+"Specify Types","ประเภทที่ระบุ",module,Magento_Banner
+"Banner Information","ข้อมูลแบนเนอร์",module,Magento_Banner
+"Banner","แบนเนอร์",module,Magento_Banner
+"Banner Type","ประเภทแบนเนอร์",module,Magento_Banner
+"Visibility","การมองเห็นได้",module,Magento_Banner
 "Delete","ลบ",module,Magento_Banner
-"Are you sure you want to delete these banners?","Are you sure you want to delete these banners?",module,Magento_Banner
-"Related Banners","Related Banners",module,Magento_Banner
+"Are you sure you want to delete these banners?","คุณแน่ใจหรือไม่ ที่จะลบแบนเนอร์เหล่านี้?",module,Magento_Banner
+"Related Banners","แบนเนอร์ที่เกี่ยวข้อง",module,Magento_Banner
 "Position","ตำแหน่ง",module,Magento_Banner
-"This rule no longer exists.","This rule no longer exists.",module,Magento_Banner
-"This banner does not exist.","This banner does not exist.",module,Magento_Banner
-"You deleted the banner.","You deleted the banner.",module,Magento_Banner
-"Something went wrong while deleting banner data. Please review the action log and try again.","Something went wrong while deleting banner data. Please review the action log and try again.",module,Magento_Banner
-"We cannot find a banner to delete.","We cannot find a banner to delete.",module,Magento_Banner
-"This banner no longer exists.","This banner no longer exists.",module,Magento_Banner
-"Edit Banner","Edit Banner",module,Magento_Banner
-"Please select a banner(s).","Please select a banner(s).",module,Magento_Banner
-"You deleted %1 record(s).","You deleted %1 record(s).",module,Magento_Banner
-"Something went wrong while mass-deleting banners. Please review the action log and try again.","Something went wrong while mass-deleting banners. Please review the action log and try again.",module,Magento_Banner
-"You saved the banner.","You saved the banner.",module,Magento_Banner
-"We cannot save the banner.","We cannot save the banner.",module,Magento_Banner
-"Please enter a name.","Please enter a name.",module,Magento_Banner
-"Please specify default content for at least one store view.","Please specify default content for at least one store view.",module,Magento_Banner
+"This rule no longer exists.","เงื่อนไขนี้ไม่มีอยู่แล้ว",module,Magento_Banner
+"This banner does not exist.","ไม่มีแบนเนอร์นี้",module,Magento_Banner
+"You deleted the banner.","ลบแบนเนอร์แล้ว",module,Magento_Banner
+"Something went wrong while deleting banner data. Please review the action log and try again.","เกิดข้อผิดพลาดขณะลบข้อมูลแบนเนอร์ โปรดตรวจสอบบันทึกการทำงานแล้วลองอีกครั้ง",module,Magento_Banner
+"We cannot find a banner to delete.","เราไม่พบแบนเนอร์ที่จะลบ",module,Magento_Banner
+"This banner no longer exists.","แบนเนอร์นี้ไม่มีอยู่อีกต่อไป",module,Magento_Banner
+"Edit Banner","แก้ไขแบนเนอร์",module,Magento_Banner
+"Please select a banner(s).","กรุณาเลือกแบนเนอร์",module,Magento_Banner
+"You deleted %1 record(s).","ลบ %1รายการแล้ว",module,Magento_Banner
+"Something went wrong while mass-deleting banners. Please review the action log and try again.","เกิดข้อผิดพลาดบางอย่างขณะลบแบนเนอร์จำนวนมาก โปรดตรวจสอบบันทึกการทำงานแล้วลองอีกครั้ง",module,Magento_Banner
+"You saved the banner.","บันทึกแบนเนอร์แล้ว",module,Magento_Banner
+"We cannot save the banner.","ไม่สามารถบันทึกแบนเนอร์ได้",module,Magento_Banner
+"Please enter a name.","กรุณาระบุชื่อ",module,Magento_Banner
+"Please specify default content for at least one store view.","กรุณาระบุเนื้อหาเริ่มต้น สำหรับอย่างน้อย 1 มุมมองร้านค้า",module,Magento_Banner
 "-- None --","-ไม่มี-",module,Magento_Banner
 "Error","ข้อผิดพลาด",module,Magento_Banner
-"Related Cart Price Rules","Related Cart Price Rules",module,Magento_Banner
-"Related Catalog Price Rules","Related Catalog Price Rules",module,Magento_Banner
+"Related Cart Price Rules","เงื่อนไขราคาตะกร้าสินค้า ที่เกี่ยวข้อง",module,Magento_Banner
+"Related Catalog Price Rules","เงื่อนไขแค็ตตาล็อกราคา ที่เกี่ยวข้อง",module,Magento_Banner
 "Content Area","พื้นที่เนื้อหา",module,Magento_Banner
 "Footer","ส่วนท้าย",module,Magento_Banner
 "Header","ส่วนหัว",module,Magento_Banner
 "Left Column","คอลัมน์ซ้าย",module,Magento_Banner
 "Right Column","คอลัมน์ด้านขวา",module,Magento_Banner
-"Manage Banners","Manage Banners",module,Magento_Banner
-"Banner Rotator","Banner Rotator",module,Magento_Banner
-"Displays Specified or Promotion Banners","Displays Specified or Promotion Banners",module,Magento_Banner
-"Banners to Display","Banners to Display",module,Magento_Banner
-"Specified Banners","Specified Banners",module,Magento_Banner
-"Shopping Cart Promotions Related","Shopping Cart Promotions Related",module,Magento_Banner
-"Catalog Promotions Related","Catalog Promotions Related",module,Magento_Banner
-"Restrict by Banner Types","Restrict by Banner Types",module,Magento_Banner
-"Rotation Mode","Rotation Mode",module,Magento_Banner
-"Display all instead of rotating","Display all instead of rotating",module,Magento_Banner
+"Manage Banners","จัดการแบนเนอร์",module,Magento_Banner
+"Banner Rotator","แบนเนอร์ เลื่อนไปมา",module,Magento_Banner
+"Displays Specified or Promotion Banners","แสดงแบนเนอร์ที่ระบุ หรือ โปรโมชั่นแบนเนอร์",module,Magento_Banner
+"Banners to Display","แบนเนอร์ที่แสดง",module,Magento_Banner
+"Specified Banners","แบนเนอร์ที่ระบุ",module,Magento_Banner
+"Shopping Cart Promotions Related","โปรโมชั่นตะกร้าสินค้า ที่เกี่ยวข้อง",module,Magento_Banner
+"Catalog Promotions Related","แค็ตตาล็อกโปรโมชั่น ที่เกี่ยวข้อง",module,Magento_Banner
+"Restrict by Banner Types","จำกัดโดยประเภทแบนเนอร์",module,Magento_Banner
+"Rotation Mode","โหมดการ เปลี่ยนภาพ",module,Magento_Banner
+"Display all instead of rotating","แสดงทั้งหมด แทนการเปลี่ยนทีละภาพ",module,Magento_Banner
 "One at the time, Random","One at the time, Random",module,Magento_Banner
 "One at the time, Series","One at the time, Series",module,Magento_Banner
 "One at the time, Shuffle","One at the time, Shuffle",module,Magento_Banner
-"Specify Banners","Specify Banners",module,Magento_Banner
+"Specify Banners","ระบุแบนเนอร์",module,Magento_Banner
 "Banner Block Template","Banner Block Template",module,Magento_Banner
 "Banner Inline Template","Banner Inline Template",module,Magento_Banner
 "Dynamic Blocks","Dynamic Blocks",module,Magento_Banner
@@ -1540,22 +1540,22 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Sale","Sale",module,Magento_Braintree
 "Credit","Credit",module,Magento_Braintree
 "Vault enabled","Vault enabled",module,Magento_Braintree
-"Percent Discount","Percent Discount",module,Magento_Bundle
-"-- Select --","-- Select --",module,Magento_Bundle
-"Dynamic","Dynamic",module,Magento_Bundle
-"Fixed","Fixed",module,Magento_Bundle
-"Create New Option","Create New Option",module,Magento_Bundle
+"Percent Discount","ส่วนลดเปอร์เซ็นต์",module,Magento_Bundle
+"-- Select --","-- เลือก --",module,Magento_Bundle
+"Dynamic","เปลี่ยนแปลงเสมอ",module,Magento_Bundle
+"Fixed","คงที่",module,Magento_Bundle
+"Create New Option","สร้างตัวเลือกใหม่",module,Magento_Bundle
 "Bundle Items","Bundle Items",module,Magento_Bundle
-"Add Products to Option","Add Products to Option",module,Magento_Bundle
+"Add Products to Option","เพิ่มสินค้าไปที่ตัวเลือก",module,Magento_Bundle
 "Close","ปิด",module,Magento_Bundle
-"Delete Option","Delete Option",module,Magento_Bundle
-"What are you looking for?","What are you looking for?",module,Magento_Bundle
+"Delete Option","ลบตัวเลือก",module,Magento_Bundle
+"What are you looking for?","คุณกำลังมองหาอะไรอยู่?",module,Magento_Bundle
 "ID","ไอดี",module,Magento_Bundle
 "Product","สินค้า",module,Magento_Bundle
 "SKU","รหัสสินค้า",module,Magento_Bundle
 "Price","ราคา",module,Magento_Bundle
 "Delete","ลบ",module,Magento_Bundle
-"Use Default Value","Use Default Value",module,Magento_Bundle
+"Use Default Value","ใช้ค่าเริ่มต้น",module,Magento_Bundle
 "There is no defined renderer for ""%1"" option type.","There is no defined renderer for ""%1"" option type.",module,Magento_Bundle
 "Only implemented for bundle product","Only implemented for bundle product",module,Magento_Bundle
 "Product with specified sku: ""%1"" is not a bundle product","Product with specified sku: ""%1"" is not a bundle product",module,Magento_Bundle
@@ -1571,7 +1571,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Requested option doesn't exist","Requested option doesn't exist",module,Magento_Bundle
 "Cannot delete option with id %1","Cannot delete option with id %1",module,Magento_Bundle
 "Could not save option","Could not save option",module,Magento_Bundle
-"Price Range","Price Range",module,Magento_Bundle
+"Price Range","ช่วงราคา",module,Magento_Bundle
 "As Low as","As Low as",module,Magento_Bundle
 "Together","Together",module,Magento_Bundle
 "Separately","Separately",module,Magento_Bundle
@@ -1581,22 +1581,22 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Please select all required options.","Please select all required options.",module,Magento_Bundle
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now.",module,Magento_Bundle
 "N/A","N/A",module,Magento_Bundle
-"Percent","Percent",module,Magento_Bundle
+"Percent","เปอร์เซนต์",module,Magento_Bundle
 "We can't save custom-defined options for bundles with dynamic pricing.","We can't save custom-defined options for bundles with dynamic pricing.",module,Magento_Bundle
 "Cancel","ยกเลิก",module,Magento_Bundle
-"Add Selected Products","Add Selected Products",module,Magento_Bundle
-"Add Option","Add Option",module,Magento_Bundle
-"New Option","New Option",module,Magento_Bundle
-"Option Title","Option Title",module,Magento_Bundle
+"Add Selected Products","เพิ่มสินค้าที่เลือก",module,Magento_Bundle
+"Add Option","เพิ่มตัวเลือก",module,Magento_Bundle
+"New Option","สร้างตัวเลือก",module,Magento_Bundle
+"Option Title","ชื่อตัวเลือก",module,Magento_Bundle
 "Default Title","Default Title",module,Magento_Bundle
-"Store View Title","Store View Title",module,Magento_Bundle
-"Input Type","Input Type",module,Magento_Bundle
+"Store View Title","ชื่อมุมมองร้านค้า",module,Magento_Bundle
+"Input Type","รูปแบบการรับข้อมูล",module,Magento_Bundle
 "Drop-down","Drop-down",module,Magento_Bundle
 "Radio Buttons","Radio Buttons",module,Magento_Bundle
 "Checkbox","Checkbox",module,Magento_Bundle
 "Multiple Select","เลือกหลายรายการ",module,Magento_Bundle
-"Required","Required",module,Magento_Bundle
-"Is Default","Is Default",module,Magento_Bundle
+"Required","จำเป็น",module,Magento_Bundle
+"Is Default","เป็นค่าเริ่มต้น",module,Magento_Bundle
 "Name","ชื่อ",module,Magento_Bundle
 "Default Quantity","Default Quantity",module,Magento_Bundle
 "User Defined","User Defined",module,Magento_Bundle
@@ -1627,27 +1627,27 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Out of stock","สินค้าหมด",module,Magento_Bundle
 "Summary","Summary",module,Magento_Bundle
 "%1 x %2","%1 x %2",module,Magento_Bundle
-"Availability:","Availability:",module,Magento_Bundle
+"Availability:","สถานะสินค้า:",module,Magento_Bundle
 "Quantity","จำนวน",module,Magento_Bundle
 "Customize %1","Customize %1",module,Magento_Bundle
 "No options of this product are available.","No options of this product are available.",module,Magento_Bundle
-"Gift Message","Gift Message",module,Magento_Bundle
-"From:","From:",module,Magento_Bundle
-"To:","To:",module,Magento_Bundle
-"Message:","Message:",module,Magento_Bundle
+"Gift Message","ข้อความสำหรับของขวัญ",module,Magento_Bundle
+"From:","จาก:",module,Magento_Bundle
+"To:","ถึง:",module,Magento_Bundle
+"Message:","ข้อ​ความ:",module,Magento_Bundle
 "Product Name","ชื่อสินค้า",module,Magento_Bundle
 "Subtotal","ผลรวมย่อย",module,Magento_Bundle
-"Discount Amount","Discount Amount",module,Magento_Bundle
+"Discount Amount","จำนวนส่วนลด",module,Magento_Bundle
 "Row Total","Row Total",module,Magento_Bundle
 "Qty Invoiced","Qty Invoiced",module,Magento_Bundle
 "Qty Shipped","Qty Shipped",module,Magento_Bundle
-"Add Products to New Option","Add Products to New Option",module,Magento_Bundle
-"Add Products to Option ""%1""","Add Products to Option ""%1""",module,Magento_Bundle
-"Select...","Select...",module,Magento_Bundle
+"Add Products to New Option","เพิ่มสินค้าไปที่ตัวเลือกใหม่",module,Magento_Bundle
+"Add Products to Option ""%1""","เพิ่มสินค้าไปที่ตัวเลือก ""%1""",module,Magento_Bundle
+"Select...","เลือก...",module,Magento_Bundle
 "Status","สถานะ",module,Magento_Bundle
 "Thumbnail","รูปขนาดย่อ",module,Magento_Bundle
 "Type","ชนิด",module,Magento_Bundle
-"Special Price","Special Price",module,Magento_Bundle
+"Special Price","ราคาพิเศษ",module,Magento_Bundle
 "This is implemented for bundle products only.","This is implemented for bundle products only.",module,Magento_Bundle
 "The product with the ""%1"" SKU isn't a bundle product.","The product with the ""%1"" SKU isn't a bundle product.",module,Magento_Bundle
 "The bundle product can't contain another composite product.","The bundle product can't contain another composite product.",module,Magento_Bundle
@@ -1701,7 +1701,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.",module,Magento_Captcha
 "Please enter the letters from the image","Please enter the letters from the image",module,Magento_Captcha
 "Please type the letters below","Please type the letters below",module,Magento_Captcha
-"Root","Root",module,Magento_Catalog
+"Root","หลัก",module,Magento_Catalog
 "Delete","ลบ",module,Magento_Catalog
 "Save","บันทึก",module,Magento_Catalog
 "Use Config Settings","Use Config Settings",module,Magento_Catalog
@@ -1715,43 +1715,43 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Position","ตำแหน่ง",module,Magento_Catalog
 "Add Subcategory","Add Subcategory",module,Magento_Catalog
 "Add Root Category","Add Root Category",module,Magento_Catalog
-"Day","Day",module,Magento_Catalog
-"Month","Month",module,Magento_Catalog
-"Year","Year",module,Magento_Catalog
-"<label class=""label""><span>from</span></label>","<label class=""label""><span>from</span></label>",module,Magento_Catalog
-"<label class=""label""><span>to</span></label>","<label class=""label""><span>to</span></label>",module,Magento_Catalog
+"Day","วัน",module,Magento_Catalog
+"Month","เดือน",module,Magento_Catalog
+"Year","ปี",module,Magento_Catalog
+"<label class=""label""><span>from</span></label>","<label class=""label""><span>จาก</span></label>",module,Magento_Catalog
+"<label class=""label""><span>to</span></label>","<label class=""label""><span>ถึง</span></label>",module,Magento_Catalog
 "[GLOBAL]","[GLOBAL]",module,Magento_Catalog
 "[WEBSITE]","[WEBSITE]",module,Magento_Catalog
 "[STORE VIEW]","[STORE VIEW]",module,Magento_Catalog
 "WYSIWYG Editor","WYSIWYG Editor",module,Magento_Catalog
-"Add Product","Add Product",module,Magento_Catalog
-"label","label",module,Magento_Catalog
-"Product Attributes","Product Attributes",module,Magento_Catalog
-"Add New Attribute","Add New Attribute",module,Magento_Catalog
+"Add Product","เพิ่มสินค้า",module,Magento_Catalog
+"label","ป้ายชื่อ",module,Magento_Catalog
+"Product Attributes","แอตทริบิ้วต์สินค้า",module,Magento_Catalog
+"Add New Attribute","เพิ่มแอตทริบิวต์",module,Magento_Catalog
 "Cancel","ยกเลิก",module,Magento_Catalog
-"Save Attribute","Save Attribute",module,Magento_Catalog
-"Save in New Attribute Set","Save in New Attribute Set",module,Magento_Catalog
-"Enter Name for New Attribute Set","Enter Name for New Attribute Set",module,Magento_Catalog
+"Save Attribute","บันทึกแอตทริบิวต์",module,Magento_Catalog
+"Save in New Attribute Set","บันทึกในชุดแอตทริบิวต์ใหม่",module,Magento_Catalog
+"Enter Name for New Attribute Set","ระบุชื่อสำหรับชุดแอตทริบิวต์ใหม่",module,Magento_Catalog
 "Save and Continue Edit","บันทึก และแก้ไขต่อไป",module,Magento_Catalog
-"Delete Attribute","Delete Attribute",module,Magento_Catalog
-"Edit Product Attribute ""%1""","Edit Product Attribute ""%1""",module,Magento_Catalog
-"New Product Attribute","New Product Attribute",module,Magento_Catalog
+"Delete Attribute","ลบแอตทริบิวต์",module,Magento_Catalog
+"Edit Product Attribute ""%1""","แก้ไขแอตทริบิวต์สินค้า ""%1""",module,Magento_Catalog
+"New Product Attribute","สร้างแอตทริบิ้วต์สินค้า",module,Magento_Catalog
 "Advanced Attribute Properties","Advanced Attribute Properties",module,Magento_Catalog
 "Attribute Code","Attribute Code",module,Magento_Catalog
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.","This is used internally. Make sure you don't use spaces or more than %1 symbols.",module,Magento_Catalog
-"Default Value","Default Value",module,Magento_Catalog
-"Unique Value","Unique Value",module,Magento_Catalog
-"Unique Value (not shared with other products)","Unique Value (not shared with other products)",module,Magento_Catalog
-"Not shared with other products.","Not shared with other products.",module,Magento_Catalog
+"Default Value","ค่าพื้นฐาน",module,Magento_Catalog
+"Unique Value","ค่าที่ไม่ซ้ำ",module,Magento_Catalog
+"Unique Value (not shared with other products)","ค่าที่ไม่ซ้ำ (ซึ่งไม่ใช้ร่วมกับสินค้าอื่น)",module,Magento_Catalog
+"Not shared with other products.","ไม่ใช้ร่วมกับสินค้าอื่น",module,Magento_Catalog
 "Input Validation for Store Owner","Input Validation for Store Owner",module,Magento_Catalog
-"Add to Column Options","Add to Column Options",module,Magento_Catalog
+"Add to Column Options","เพิ่มไปยังตัวเลือกคอลัม",module,Magento_Catalog
 "Select ""Yes"" to add this attribute to the list of column options in the product grid.","Select ""Yes"" to add this attribute to the list of column options in the product grid.",module,Magento_Catalog
 "Use in Filter Options","Use in Filter Options",module,Magento_Catalog
 "Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Select ""Yes"" to add this attribute to the list of filter options in the product grid.",module,Magento_Catalog
 "Store View","มุมมองร้าน",module,Magento_Catalog
-"Website","Website",module,Magento_Catalog
-"Global","Global",module,Magento_Catalog
-"Scope","Scope",module,Magento_Catalog
+"Website","เว็บไซต์",module,Magento_Catalog
+"Global","ตั้งค่าระบบหลัก",module,Magento_Catalog
+"Scope","ขอบเขต",module,Magento_Catalog
 "Declare attribute value saving scope.","Declare attribute value saving scope.",module,Magento_Catalog
 "Storefront Properties","Storefront Properties",module,Magento_Catalog
 "Use in Search","Use in Search",module,Magento_Catalog
@@ -1778,43 +1778,43 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Integer","Integer",module,Magento_Catalog
 "Globally Editable","Globally Editable",module,Magento_Catalog
 "Attribute Information","Attribute Information",module,Magento_Catalog
-"Properties","Properties",module,Magento_Catalog
+"Properties","คุณสมบัติ",module,Magento_Catalog
 "Manage Labels","Manage Labels",module,Magento_Catalog
-"Visible","Visible",module,Magento_Catalog
+"Visible","มองเห็นได้",module,Magento_Catalog
 "Web Site","เว็บไซต์",module,Magento_Catalog
-"Searchable","Searchable",module,Magento_Catalog
-"Comparable","Comparable",module,Magento_Catalog
-"Delete Selected Group","Delete Selected Group",module,Magento_Catalog
+"Searchable","ค้นหาได้",module,Magento_Catalog
+"Comparable","เปรียบเทียบได้",module,Magento_Catalog
+"Delete Selected Group","ลบกลุ่มที่เลือก",module,Magento_Catalog
 "Add New","เพิ่มใหม่",module,Magento_Catalog
 "Back","ย้อนกลับ",module,Magento_Catalog
 "Reset","รีเซ็ต",module,Magento_Catalog
 "You are about to delete all products in this attribute set. Are you sure you want to do that?","You are about to delete all products in this attribute set. Are you sure you want to do that?",module,Magento_Catalog
 "New Set Name","New Set Name",module,Magento_Catalog
 "Edit Attribute Set '%1'","Edit Attribute Set '%1'",module,Magento_Catalog
-"Empty","Empty",module,Magento_Catalog
-"Add Attribute","Add Attribute",module,Magento_Catalog
-"Add New Group","Add New Group",module,Magento_Catalog
-"Add Group","Add Group",module,Magento_Catalog
-"Edit Attribute Set Name","Edit Attribute Set Name",module,Magento_Catalog
+"Empty","ว่างเปล่า",module,Magento_Catalog
+"Add Attribute","เพิ่มแอตทริบิวต์",module,Magento_Catalog
+"Add New Group","เพิ่มกลุ่มใหม่",module,Magento_Catalog
+"Add Group","เพิ่มกลุ่มใหม่",module,Magento_Catalog
+"Edit Attribute Set Name","แก้ไขชื่อชุดแอตทริบิ้วต์",module,Magento_Catalog
 "For internal use","For internal use",module,Magento_Catalog
 "Based On","Based On",module,Magento_Catalog
 "Add New Attribute Set","Add New Attribute Set",module,Magento_Catalog
 "Add Attribute Set","Add Attribute Set",module,Magento_Catalog
 "Attribute Sets","Attribute Sets",module,Magento_Catalog
-"Close Window","Close Window",module,Magento_Catalog
-"New Product","New Product",module,Magento_Catalog
-"Save & Edit","Save & Edit",module,Magento_Catalog
-"Save & New","Save & New",module,Magento_Catalog
-"Save & Duplicate","Save & Duplicate",module,Magento_Catalog
-"Save & Close","Save & Close",module,Magento_Catalog
+"Close Window","ปิดหน้าต่าง",module,Magento_Catalog
+"New Product","เพิ่มสินค้า",module,Magento_Catalog
+"Save & Edit","บันทึกและแก้ไข",module,Magento_Catalog
+"Save & New","บันทึก และสร้างใหม่",module,Magento_Catalog
+"Save & Duplicate","บันทึกและทำสำเนา",module,Magento_Catalog
+"Save & Close","บันทึกและปิด",module,Magento_Catalog
 "Attributes","คุณสมบัติ",module,Magento_Catalog
-"Change","Change",module,Magento_Catalog
+"Change","เปลี่ยนแปลง",module,Magento_Catalog
 "Advanced Inventory","Advanced Inventory",module,Magento_Catalog
-"Websites","Websites",module,Magento_Catalog
-"Products Information","Products Information",module,Magento_Catalog
-"Create Category","Create Category",module,Magento_Catalog
-"Category Name","Category Name",module,Magento_Catalog
-"Parent Category","Parent Category",module,Magento_Catalog
+"Websites","เว็บไซต์",module,Magento_Catalog
+"Products Information","ข้อมูลสินค้า",module,Magento_Catalog
+"Create Category","สร้างหมวดหมู่",module,Magento_Catalog
+"Category Name","ชื่อหมวดหมู่",module,Magento_Catalog
+"Parent Category","หมวดหมู่หลัก",module,Magento_Catalog
 "If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.",module,Magento_Catalog
 "Price Alert Subscriptions","Price Alert Subscriptions",module,Magento_Catalog
 "Stock Alert Subscriptions","Stock Alert Subscriptions",module,Magento_Catalog
@@ -1825,22 +1825,22 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Subscribe Date","Subscribe Date",module,Magento_Catalog
 "Last Notified","Last Notified",module,Magento_Catalog
 "Send Count","Send Count",module,Magento_Catalog
-"New Attribute","New Attribute",module,Magento_Catalog
+"New Attribute","เพิ่มแอตทริบิวต์",module,Magento_Catalog
 "Type","ชนิด",module,Magento_Catalog
-"Attribute Set","Attribute Set",module,Magento_Catalog
-"Add New Option","Add New Option",module,Magento_Catalog
-"Import Options","Import Options",module,Magento_Catalog
+"Attribute Set","ชุดแอตทริบิวต์",module,Magento_Catalog
+"Add New Option","เพิ่มตัวเลือกใหม่",module,Magento_Catalog
+"Import Options","นำเข้าตัวเลือก",module,Magento_Catalog
 "Use Default","ใช้ค่าเริ่มต้น",module,Magento_Catalog
 "Import","นำเข้า",module,Magento_Catalog
-"Add New Row","Add New Row",module,Magento_Catalog
-"Delete Row","Delete Row",module,Magento_Catalog
-"Tier Pricing","Tier Pricing",module,Magento_Catalog
-"Default Price","Default Price",module,Magento_Catalog
-"All Websites","All Websites",module,Magento_Catalog
-"ALL GROUPS","ALL GROUPS",module,Magento_Catalog
-"Add Price","Add Price",module,Magento_Catalog
-"Default Values","Default Values",module,Magento_Catalog
-"Related Products","Related Products",module,Magento_Catalog
+"Add New Row","เพิ่มแถวใหม่",module,Magento_Catalog
+"Delete Row","ลบแถว",module,Magento_Catalog
+"Tier Pricing","ราคาแบบลำดับขั้น",module,Magento_Catalog
+"Default Price","ราคาตั้งต้น",module,Magento_Catalog
+"All Websites","เว็บไซต์ทั้งหมด",module,Magento_Catalog
+"ALL GROUPS","กลุ่มทั้งหมด",module,Magento_Catalog
+"Add Price","เพิ่มราคา",module,Magento_Catalog
+"Default Values","ค่าพื้นฐาน",module,Magento_Catalog
+"Related Products","สินค้าที่เกี่ยวข้อง",module,Magento_Catalog
 "Up-sells","Up-sells",module,Magento_Catalog
 "Cross-sells","Cross-sells",module,Magento_Catalog
 "Size for %1","Size for %1",module,Magento_Catalog
@@ -1850,20 +1850,20 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Quantity","จำนวน",module,Magento_Catalog
 "Edit","แก้ไข",module,Magento_Catalog
 "Are you sure?","คุณแน่ใจหรือไม่?",module,Magento_Catalog
-"Change Status","Change Status",module,Magento_Catalog
-"Update Attributes","Update Attributes",module,Magento_Catalog
+"Change Status","เปลี่ยนสถานะ",module,Magento_Catalog
+"Update Attributes","บันทึกแอตทริบิวต์",module,Magento_Catalog
 "start typing to search category","start typing to search category",module,Magento_Catalog
-"New Category","New Category",module,Magento_Catalog
+"New Category","สร้างหมวดหมู่ใหม่",module,Magento_Catalog
 "Images (.gif, .jpg, .png)","รูปภาพ (.gif, .jpg, .png)",module,Magento_Catalog
-"Add New Images","Add New Images",module,Magento_Catalog
-"Inc. Tax","Inc. Tax",module,Magento_Catalog
+"Add New Images","เพิ่มรูปภาพใหม่",module,Magento_Catalog
+"Inc. Tax","รวมภาษี",module,Magento_Catalog
 "Does this have a weight?","Does this have a weight?",module,Magento_Catalog
 "Product","สินค้า",module,Magento_Catalog
 "Notify Low Stock RSS","Notify Low Stock RSS",module,Magento_Catalog
 "Low Stock Products","Low Stock Products",module,Magento_Catalog
 "%1 has reached a quantity of %2.","%1 has reached a quantity of %2.",module,Magento_Catalog
 "Home","หน้าหลัก",module,Magento_Catalog
-"Go to Home Page","Go to Home Page",module,Magento_Catalog
+"Go to Home Page","ไปยังหน้าหลัก",module,Magento_Catalog
 "Subscribe to RSS Feed","Subscribe to RSS Feed",module,Magento_Catalog
 "Products Comparison List","Products Comparison List",module,Magento_Catalog
 "N/A","N/A",module,Magento_Catalog
@@ -1872,18 +1872,18 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "-- Please Select --","-- โปรดเลือก-",module,Magento_Catalog
 "None","ไม่มี",module,Magento_Catalog
 "New Products from %1","New Products from %1",module,Magento_Catalog
-"New Products","New Products",module,Magento_Catalog
+"New Products","เพิ่มสินค้าใหม่",module,Magento_Catalog
 "%1 - Special Products","%1 - Special Products",module,Magento_Catalog
 "Click for price","คลิกเพื่อดูราคา",module,Magento_Catalog
 "Special Expires On: %1","Special Expires On: %1",module,Magento_Catalog
-"Price: %1","Price: %1",module,Magento_Catalog
+"Price: %1","ราคา: %1",module,Magento_Catalog
 "Special Price: %1","Special Price: %1",module,Magento_Catalog
 "Special Products","Special Products",module,Magento_Catalog
 "Manage Catalog Categories","Manage Catalog Categories",module,Magento_Catalog
-"Manage Categories","Manage Categories",module,Magento_Catalog
+"Manage Categories","จัดการหมวดหมู่",module,Magento_Catalog
 "You deleted the category.","You deleted the category.",module,Magento_Catalog
 "Something went wrong while trying to delete the category.","Something went wrong while trying to delete the category.",module,Magento_Catalog
-"Categories","Categories",module,Magento_Catalog
+"Categories","หมวดหมู่",module,Magento_Catalog
 "Category is not available for requested store.","Category is not available for requested store.",module,Magento_Catalog
 "There was a category move error.","There was a category move error.",module,Magento_Catalog
 "You moved the category.","You moved the category.",module,Magento_Catalog
@@ -1894,14 +1894,14 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Please make sure to define SKU values for all processed products.","Please make sure to define SKU values for all processed products.",module,Magento_Catalog
 "A total of %1 record(s) were updated.","A total of %1 record(s) were updated.",module,Magento_Catalog
 "Something went wrong while updating the product(s) attributes.","Something went wrong while updating the product(s) attributes.",module,Magento_Catalog
-"Unable to add attribute","Unable to add attribute",module,Magento_Catalog
-"Please, specify attributes","Please, specify attributes",module,Magento_Catalog
+"Unable to add attribute","ไม่สามารถเพิ่มแอตทริบิ้วต์ได้",module,Magento_Catalog
+"Please, specify attributes","กรุณาระบุแอตทริบิวต์",module,Magento_Catalog
 "Catalog","แค็ตตาล็อก",module,Magento_Catalog
-"Manage Product Attributes","Manage Product Attributes",module,Magento_Catalog
-"We can't delete the attribute.","We can't delete the attribute.",module,Magento_Catalog
-"You deleted the product attribute.","You deleted the product attribute.",module,Magento_Catalog
+"Manage Product Attributes","จัดการแอตทริบิ้วต์สินค้า",module,Magento_Catalog
+"We can't delete the attribute.","ไม่สามารถลบแอตทริบิวต์ได้",module,Magento_Catalog
+"You deleted the product attribute.","คุณได้ลบแอตทริบิวต์สินค้าแล้ว",module,Magento_Catalog
 "We can't find an attribute to delete.","We can't find an attribute to delete.",module,Magento_Catalog
-"This attribute no longer exists.","This attribute no longer exists.",module,Magento_Catalog
+"This attribute no longer exists.","แอตทริบิ้วต์นี้ไม่มีอยู่แล้ว",module,Magento_Catalog
 "This attribute cannot be edited.","This attribute cannot be edited.",module,Magento_Catalog
 "Edit Product Attribute","Edit Product Attribute",module,Magento_Catalog
 "An attribute set named '%1' already exists.","An attribute set named '%1' already exists.",module,Magento_Catalog
@@ -1922,8 +1922,8 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Magento_Catalog
 "A total of %1 record(s) have been updated.","A total of %1 record(s) have been updated.",module,Magento_Catalog
 "Something went wrong while updating the product(s) status.","Something went wrong while updating the product(s) status.",module,Magento_Catalog
-"Unable to save product","Unable to save product",module,Magento_Catalog
-"You saved the product.","You saved the product.",module,Magento_Catalog
+"Unable to save product","ไม่สามารถบันทึกสินค้าได้",module,Magento_Catalog
+"You saved the product.","คุณบันทึกสินค้าแล้ว",module,Magento_Catalog
 "SKU for product %1 has been changed to %2.","SKU for product %1 has been changed to %2.",module,Magento_Catalog
 "The image cannot be removed as it has been assigned to the other image role","The image cannot be removed as it has been assigned to the other image role",module,Magento_Catalog
 "New Attribute Set","New Attribute Set",module,Magento_Catalog
@@ -1939,13 +1939,13 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "You cleared the comparison list.","You cleared the comparison list.",module,Magento_Catalog
 "Something went wrong  clearing the comparison list.","Something went wrong  clearing the comparison list.",module,Magento_Catalog
 "You removed product %1 from the comparison list.","You removed product %1 from the comparison list.",module,Magento_Catalog
-"1 item","1 item",module,Magento_Catalog
-"%1 items","%1 items",module,Magento_Catalog
+"1 item","1 รายการ",module,Magento_Catalog
+"%1 items","%1 รายการ",module,Magento_Catalog
 "Are you sure you want to remove this item from your Compare Products list?","Are you sure you want to remove this item from your Compare Products list?",module,Magento_Catalog
 "Are you sure you want to remove all items from your Compare Products list?","Are you sure you want to remove all items from your Compare Products list?",module,Magento_Catalog
 "Invalid attribute %1","Invalid attribute %1",module,Magento_Catalog
-"Grid","Grid",module,Magento_Catalog
-"List","List",module,Magento_Catalog
+"Grid","ตาราง",module,Magento_Catalog
+"List","รายการ",module,Magento_Catalog
 "All","ทั้งหมด",module,Magento_Catalog
 "Bad controller interface for showing product","Bad controller interface for showing product",module,Magento_Catalog
 "Product is not loaded","Product is not loaded",module,Magento_Catalog
@@ -1971,17 +1971,17 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Could not save category: %1","Could not save category: %1",module,Magento_Catalog
 "Cannot delete category with id %1","Cannot delete category with id %1",module,Magento_Catalog
 "-- Please Select a Category --","-- Please Select a Category --",module,Magento_Catalog
-"Grid Only","Grid Only",module,Magento_Catalog
-"List Only","List Only",module,Magento_Catalog
-"Grid (default) / List","Grid (default) / List",module,Magento_Catalog
-"List (default) / Grid","List (default) / Grid",module,Magento_Catalog
+"Grid Only","ตารางเท่านั้น",module,Magento_Catalog
+"List Only","แบบรายการเท่านั้น",module,Magento_Catalog
+"Grid (default) / List","ตาราง (ค่าเริ่มต้น) / รายการ",module,Magento_Catalog
+"List (default) / Grid","รายการ (ค่าเริ่มต้น) / ตาราง",module,Magento_Catalog
 "Automatic (equalize price ranges)","Automatic (equalize price ranges)",module,Magento_Catalog
 "Automatic (equalize product counts)","Automatic (equalize product counts)",module,Magento_Catalog
-"Manual","Manual",module,Magento_Catalog
-"Fixed","Fixed",module,Magento_Catalog
-"Percent","Percent",module,Magento_Catalog
+"Manual","ปรับเอง",module,Magento_Catalog
+"Fixed","คงที่",module,Magento_Catalog
+"Percent","เปอร์เซนต์",module,Magento_Catalog
 "Discount","ส่วนลด",module,Magento_Catalog
-"-- Please select --","-- Please select --",module,Magento_Catalog
+"-- Please select --","-- กรุณาเลือก --",module,Magento_Catalog
 "Product Thumbnail Itself","Product Thumbnail Itself",module,Magento_Catalog
 "Parent Product Thumbnail","Parent Product Thumbnail",module,Magento_Catalog
 "12h AM/PM","12h AM/PM",module,Magento_Catalog
@@ -2977,7 +2977,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "Smth went to exception","Smth went to exception",module,Magento_CatalogRuleStaging
 "ID","ไอดี",module,Magento_CatalogRuleStaging
 "Rule","กฎ เงื่อนไข",module,Magento_CatalogRuleStaging
-"Priority","Priority",module,Magento_CatalogRuleStaging
+"Priority","ระดับความสำคัญ",module,Magento_CatalogRuleStaging
 "Web Site","เว็บไซต์",module,Magento_CatalogRuleStaging
 "Action","ดำเนินการ",module,Magento_CatalogRuleStaging
 "Edit","แก้ไข",module,Magento_CatalogRuleStaging
@@ -2985,22 +2985,22 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "Name","ชื่อ",module,Magento_CatalogRuleStaging
 "Description","รายละเอียด",module,Magento_CatalogRuleStaging
 "Update Information","แก้ไขข้อมูล",module,Magento_CatalogRuleStaging
-"Remove Catalog Price Rule from Update","Remove Catalog Price Rule from Update",module,Magento_CatalogRuleStaging
+"Remove Catalog Price Rule from Update","ลบ Catalog Price Rule จากการอัพเดท",module,Magento_CatalogRuleStaging
 "Schedule Update","กำหนดการปรับปรุง",module,Magento_CatalogRuleStaging
 "Update Name","เปลี่ยนชื่อ",module,Magento_CatalogRuleStaging
 "Start Date","วันที่เริ่มต้น",module,Magento_CatalogRuleStaging
 "End Date","ถึงวันที่",module,Magento_CatalogRuleStaging
-"Rule Information","Rule Information",module,Magento_CatalogRuleStaging
-"Rule Name","Rule Name",module,Magento_CatalogRuleStaging
+"Rule Information","คำอธิบายเงื่อนไข",module,Magento_CatalogRuleStaging
+"Rule Name","ชื่อเงื่อนไข",module,Magento_CatalogRuleStaging
 "Status","สถานะ",module,Magento_CatalogRuleStaging
 "Active","ใช้งานอยู่",module,Magento_CatalogRuleStaging
 "Inactive","ไม่ใช้งาน",module,Magento_CatalogRuleStaging
-"Websites","Websites",module,Magento_CatalogRuleStaging
+"Websites","เว็บไซต์",module,Magento_CatalogRuleStaging
 "Customer Groups","กลุ่มลูกค้า",module,Magento_CatalogRuleStaging
-"Conditions","Conditions",module,Magento_CatalogRuleStaging
+"Conditions","เงื่อนไข",module,Magento_CatalogRuleStaging
 "Actions","การดำเนินการ",module,Magento_CatalogRuleStaging
 "Apply","นำไปใช้",module,Magento_CatalogRuleStaging
-"Discount Amount","Discount Amount",module,Magento_CatalogRuleStaging
+"Discount Amount","จำนวนส่วนลด",module,Magento_CatalogRuleStaging
 "Discard subsequent rules","Discard subsequent rules",module,Magento_CatalogRuleStaging
 "Yes","ใช่",module,Magento_CatalogRuleStaging
 "No","ไม่",module,Magento_CatalogRuleStaging
@@ -4762,7 +4762,7 @@ new products will be created. Use this step to customize images and price for yo
 "Status","สถานะ",module,Magento_Customer
 "Sent","ส่งแล้ว",module,Magento_Customer
 "Cancel","ยกเลิก",module,Magento_Customer
-"Not Sent","Not Sent",module,Magento_Customer
+"Not Sent","ไม่ส่ง",module,Magento_Customer
 "Sending","กำลังส่ง...",module,Magento_Customer
 "Paused","ถูกหยุดชั่วคราว",module,Magento_Customer
 "View","มุมมอง",module,Magento_Customer
@@ -16223,92 +16223,92 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transaction has been declined",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"Summary","Summary",theme,frontend\Magento\blank
-"Account Dashboard","Account Dashboard",theme,frontend\Magento\blank
-"Account Information","ข้อมูลบัญชี",theme,frontend\Magento\blank
-"Address Book","ข้อมูลที่อยู่จัดส่งสินค้า",theme,frontend\Magento\blank
-"Menu","Menu",theme,frontend\Magento\blank
-"Account","Account",theme,frontend\Magento\blank
-"Settings","การตั้งค่า",theme,frontend\Magento\blank
-"Now Shopping by","Now Shopping by",theme,frontend\Magento\luma
-"Previous","ก่อนหน้านี้",theme,frontend\Magento\luma
-"Remove","ลบ",theme,frontend\Magento\luma
-"Remove This Item","Remove This Item",theme,frontend\Magento\luma
-"Shop By","Shop By",theme,frontend\Magento\luma
-"Clear All","Clear All",theme,frontend\Magento\luma
-"Shopping Options","Shopping Options",theme,frontend\Magento\luma
-"Welcome to %store_name","Welcome to %store_name",theme,frontend\Magento\luma
-"%name,","%name,",theme,frontend\Magento\luma
-"Welcome to %store_name.","Welcome to %store_name.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",theme,frontend\Magento\luma
-"Email:","Email:",theme,frontend\Magento\luma
-"Password:","Password:",theme,frontend\Magento\luma
-"Password you set when creating account","Password you set when creating account",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",theme,frontend\Magento\luma
-"Quick Checkout","Quick Checkout",theme,frontend\Magento\luma
-"Proceed through checkout faster","Proceed through checkout faster",theme,frontend\Magento\luma
-"Order Status","Order Status",theme,frontend\Magento\luma
-"Check the status of orders","Check the status of orders",theme,frontend\Magento\luma
-"Manage Addresses","Manage Addresses",theme,frontend\Magento\luma
-"Store alternative addresses","Store alternative addresses",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","For shipping to multiple family members and friends",theme,frontend\Magento\luma
-"Order History","Order History",theme,frontend\Magento\luma
-"View past orders","View past orders",theme,frontend\Magento\luma
-"Footer","ส่วนท้าย",theme,frontend\Magento\luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend\Magento\luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend\Magento\luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend\Magento\luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","Thank you for your order from %store_name.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend\Magento\luma
-"Billing Info","Billing Info",theme,frontend\Magento\luma
-"Shipping Info","Shipping Info",theme,frontend\Magento\luma
-"Payment Method","Payment Method",theme,frontend\Magento\luma
-"Shipping Method","Shipping Method",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend\Magento\luma
-"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend\Magento\luma
-"%customer_name,","%customer_name,",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","Update to your %store_name order",theme,frontend\Magento\luma
-"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend\Magento\luma
-"Account Dashboard","Account Dashboard",theme,frontend\Magento\luma
-"Address Book","ข้อมูลที่อยู่จัดส่งสินค้า",theme,frontend\Magento\luma
-"Account Information","ข้อมูลบัญชี",theme,frontend\Magento\luma
-"About Us","About Us",theme,frontend\Magento\luma
-"Customer Service","Customer Service",theme,frontend\Magento\luma
-"My Account","บัญชีของฉัน",theme,frontend\Magento\luma
-"Backup options","Backup options",lib,web
-"Warning","Warning",lib,web
+"Summary","สรุป",theme,frontend/Magento/blank
+"Account Dashboard","แดชบอร์ดผู้ใช้",theme,frontend/Magento/blank
+"Account Information","ข้อมูลบัญชี",theme,frontend/Magento/blank
+"Address Book","ข้อมูลที่อยู่จัดส่งสินค้า",theme,frontend/Magento/blank
+"Menu","เมนู",theme,frontend/Magento/blank
+"Account","บัญชีผู้ใช้",theme,frontend/Magento/blank
+"Settings","การตั้งค่า",theme,frontend/Magento/blank
+"Now Shopping by","Now Shopping by",theme,frontend/Magento/luma
+"Previous","ก่อนหน้านี้",theme,frontend/Magento/luma
+"Remove","ลบ",theme,frontend/Magento/luma
+"Remove This Item","Remove This Item",theme,frontend/Magento/luma
+"Shop By","Shop By",theme,frontend/Magento/luma
+"Clear All","Clear All",theme,frontend/Magento/luma
+"Shopping Options","Shopping Options",theme,frontend/Magento/luma
+"Welcome to %store_name","Welcome to %store_name",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
+"Welcome to %store_name.","Welcome to %store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",theme,frontend/Magento/luma
+"Email:","Email:",theme,frontend/Magento/luma
+"Password:","Password:",theme,frontend/Magento/luma
+"Password you set when creating account","Password you set when creating account",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:",theme,frontend/Magento/luma
+"Quick Checkout","Quick Checkout",theme,frontend/Magento/luma
+"Proceed through checkout faster","Proceed through checkout faster",theme,frontend/Magento/luma
+"Order Status","สถานะการสั่งซื้อ",theme,frontend/Magento/luma
+"Check the status of orders","Check the status of orders",theme,frontend/Magento/luma
+"Manage Addresses","จัดการที่อยู่",theme,frontend/Magento/luma
+"Store alternative addresses","Store alternative addresses",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","For shipping to multiple family members and friends",theme,frontend/Magento/luma
+"Order History","Order History",theme,frontend/Magento/luma
+"View past orders","View past orders",theme,frontend/Magento/luma
+"Footer","ส่วนท้าย",theme,frontend/Magento/luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend/Magento/luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend/Magento/luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","Credit memo for your %store_name order",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Thank you for your order from %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","You can check the status of your order by <a href=""%account_url"">logging into your account</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",theme,frontend/Magento/luma
+"Billing Info","Billing Info",theme,frontend/Magento/luma
+"Shipping Info","Shipping Info",theme,frontend/Magento/luma
+"Payment Method","Payment Method",theme,frontend/Magento/luma
+"Shipping Method","Shipping Method",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","Invoice for your %store_name order",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","Your Invoice #%invoice_id for Order #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","Update to your %store_name invoice",theme,frontend/Magento/luma
+"Your %store_name order confirmation","Your %store_name order confirmation",theme,frontend/Magento/luma
+"%customer_name,","%customer_name,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","Update to your %store_name order",theme,frontend/Magento/luma
+"Your %store_name order has shipped","Your %store_name order has shipped",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","Your Shipment #%shipment_id for Order #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","Update to your %store_name shipment",theme,frontend/Magento/luma
+"Account Dashboard","Account Dashboard",theme,frontend/Magento/luma
+"Address Book","ข้อมูลที่อยู่จัดส่งสินค้า",theme,frontend/Magento/luma
+"Account Information","ข้อมูลบัญชี",theme,frontend/Magento/luma
+"About Us","About Us",theme,frontend/Magento/luma
+"Customer Service","Customer Service",theme,frontend/Magento/luma
+"My Account","บัญชีของฉัน",theme,frontend/Magento/luma
+"Backup options","ตัวเลือกการสำรองข้อมูล",lib,web
+"Warning","คำเตือน",lib,web
 "Cancel","ยกเลิก",lib,web
-"Ok","Ok",lib,web
-"Insert Widget...","Insert Widget...",lib,web
-"No records found.","No records found.",lib,web
-"Recent items","Recent items",lib,web
-"Show all...","Show all...",lib,web
-"Please enter a number greater 0 in this field.","Please enter a number greater 0 in this field.",lib,web
-"Please select one of each ratings above.","Please select one of each ratings above.",lib,web
-"Please specify Url.","Please specify Url.",lib,web
-"Method %s does not exist on jQuery.decorate","Method %s does not exist on jQuery.decorate",lib,web
+"Ok","ตกลง",lib,web
+"Insert Widget...","เพิ่ม วิดเก็ต...",lib,web
+"No records found.","ไม่พบข้อมูล",lib,web
+"Recent items","รายการล่าสุด",lib,web
+"Show all...","แสดงทั้งหมด...",lib,web
+"Please enter a number greater 0 in this field.","โปรดป้อนตัวเลขที่มากกว่า 0 ในฟิลด์นี้",lib,web
+"Please select one of each ratings above.","โปรดเลือกหนึ่งในแต่ละการให้คะแนนด้านบน",lib,web
+"Please specify Url.","กรุณาระบุ Url",lib,web
+"Method %s does not exist on jQuery.decorate","เมธอด %s ไม่มีอยู่ใน jQuery.decorate",lib,web
 "Close","ปิด",lib,web
 "Next","ถัดไป",lib,web
 "Previous","ก่อนหน้านี้",lib,web
-"Please wait...","Please wait...",lib,web
+"Please wait...","กรุณารอสักครู่...",lib,web
 "Loading...","กำลังโหลด...",lib,web
-"All ","All ",lib,web
-"more","more",lib,web
+"All ","ทั้งหมด ",lib,web
+"more","อื่นๆ",lib,web
 "Save","บันทึก",lib,web
 "Translate","Translate",lib,web
 "Submit","ส่ง",lib,web
