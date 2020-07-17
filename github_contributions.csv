@@ -2,3 +2,8 @@ Mageplaza,Mageplaza
 All,ทั้งหมด,module,Magento_AdminGws
 None,ไม่มี,module,Magento_AdminGws
 "Add Products","เพิ่มสินค้า",module,Magento_AdvancedCheckout
+"Shipping Address","ที่อยู่สำหรับจัดส่ง",module,Magento_Checkout
+"New Address","ที่อยู่ใหม่",module,Magento_Checkout
+"Review & Payments","ตรวจสอบและชำระเงิน",module,Magento_Checkout
+"Order Summary","สรุปคำสั่งซื้อ",module,Magento_Checkout
+"Items in Cart","รายการในรถเข็น",module,Magento_Checkout
