@@ -2,3 +2,8 @@ Mageplaza,Mageplaza
 All,ทั้งหมด,module,Magento_AdminGws
 None,ไม่มี,module,Magento_AdminGws
 "Add Products","เพิ่มสินค้า",module,Magento_AdvancedCheckout
+"Buy Now","ซื้อทันที",module,Magento_Paypal
+"Continue Shopping","เลือกซื้อสินค้าต่อ",module,Magento_Checkout
+"Continue Shopping","เลือกซื้อสินค้าต่อ",module,Magento_Multishipping
+"Continue Shopping","เลือกซื้อสินค้าต่อ",module,Magento_NegotiableQuote
+"Edit Account Information","แก้ไขข้อมูลส่วนตัว",module,Magento_Customer
