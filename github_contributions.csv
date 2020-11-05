@@ -2,3 +2,116 @@ Mageplaza,Mageplaza
 All,ทั้งหมด,module,Magento_AdminGws
 None,ไม่มี,module,Magento_AdminGws
 "Add Products","เพิ่มสินค้า",module,Magento_AdvancedCheckout
+"Buy Now","ซื้อทันที",module,Magento_Paypal
+"Continue Shopping","เลือกซื้อสินค้าต่อ",module,Magento_Checkout
+"Continue Shopping","เลือกซื้อสินค้าต่อ",module,Magento_Multishipping
+"Continue Shopping","เลือกซื้อสินค้าต่อ",module,Magento_NegotiableQuote
+"Edit Account Information","แก้ไขข้อมูลส่วนตัว",module,Magento_Customer
+"You added %1 to your <a href=""%2"">shopping cart</a>.","คุณเพิ่ม %1 ลงใน <a href=""%2"">ตะกร้าสินค้า</a>",module,Magento_Checkout
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","ถ้าคุณมีบัญชีที่สมัครด้วยอีเมล์ %1 คุณจะได้รับอีเมล์ที่มีลิงค์สำหรับตั้งรหัสผ่านใหม่",module,Magento_Customer
+"Confirm Password","ยืนยันรหัสผ่าน",module,Magento_Customer
+"Create an Account","สร้างบัญชีผู้ใช้",module,Magento_Customer
+"Set a New Password","ตั้งรหัสผ่านใหม่",module,Magento_Customer
+"Minimum Password Length","รหัสผ่านต้องมีความยาวอย่างน้อย",module,Magento_Customer
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","ช่องนี้ต้องมีความยาวตัวอักษรมากกว่าหรือเท่ากับ %1 ตัว เว้นวรรคที่อยู่ด้านหน้าและด้านหลังจะถูกตัดออก",module,Magento_Ui
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","ช่องนี้ต้องมีความยาวตัวอักษรมากกว่าหรือเท่ากับ %1 ตัว เว้นวรรคที่อยู่ด้านหน้าและด้านหลังจะถูกตัดออก",lib,web
+"You updated your password.","เปลี่ยนรหัสผ่านเรียบร้อยแล้ว",module,Magento_Customer
+"You updated your password.","เปลี่ยนรหัสผ่านเรียบร้อยแล้ว",module,Magento_User
+"* Required Fields","* ข้อมูลที่จำเป็นต้องกรอก",module,Magento_Review
+"* Required Fields","* ข้อมูลที่จำเป็นต้องกรอก",module,Magento_SendFriend
+"* Required Fields","* ข้อมูลที่จำเป็นต้องกรอก",module,Magento_Wishlist
+"City","เขต/อำเภอ",module,Magento_Backend
+"City","เขต/อำเภอ",module,Magento_Braintree
+"City","เขต/อำเภอ",module,Magento_Checkout
+"City","เขต/อำเภอ",module,Magento_Company
+"City","เขต/อำเภอ",module,Magento_Customer
+"City","เขต/อำเภอ",module,Magento_CustomerCustomAttributes
+"City","เขต/อำเภอ",module,Magento_Email
+"City","เขต/อำเภอ",module,Magento_GiftRegistry
+"City","เขต/อำเภอ",module,Magento_Rma
+"City","เขต/อำเภอ",module,Magento_Sales
+"City","เขต/อำเภอ",module,Magento_Shipping
+"Ship Here","จัดส่งที่นี่",module,Magento_Checkout
+"Ship Here","จัดส่งที่นี่",module,Magento_GiftRegistry
+"Ship Here","จัดส่งที่นี่",module,Magento_NegotiableQuote
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_Checkout
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_Customer
+"Default Billing Address","ค่าเริ่มต้นที่อยู่สำหรับออกใบเสร็จรับเงิน",module,Magento_CustomerCustomAttributes
+"Default Shipping Address","ค่าเริ่มต้นที่อยู่สำหรับจัดส่งสินค้า",module,Magento_CustomerCustomAttributes
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_GiftRegistry
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_InstantPurchase
+"Billing Address","ที่อยู่สำหรับออกใบเสร็จรับเงิน",module,Magento_InstantPurchase
+"Payment Method","วิธีการชำระเงิน",module,Magento_InstantPurchase
+"Shipping Method","วิธีการจัดส่ง",module,Magento_InstantPurchase
+"Shipping Methods","วิธีการจัดส่ง",module,Magento_Multishipping
+"Edit Billing Address","แก้ไขที่อยู่สำหรับออกใบเสร็จรับเงิน",module,Magento_Multishipping
+"Edit Shipping Address","แก้ไขที่อยู่จัดส่งสินค้า",module,Magento_Multishipping
+"Create Billing Address","สร้างที่อยู่สำหรับออกใบเสร็จรับเงิน",module,Magento_Multishipping
+"Create Shipping Address","สร้างที่อยู่จัดส่งสินค้า",module,Magento_Multishipping
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_NegotiableQuote
+"Shipping address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_NegotiableQuote
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_Paypal
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_Rma
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_Sales
+"Shipping Method","วิธีการจัดส่ง",module,Magento_Sales
+"Shipping Address: ","ที่อยู่จัดส่ง: ",module,Magento_Sales
+"Billing Address: ","ที่อยู่ออกบิล: ",module,Magento_Sales
+"Billing Address","ที่อยู่สำหรับออกใบเสร็จรับเงิน",module,Magento_SalesArchive
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_SalesArchive
+"Customer Name","ชื่อลูกค้า",module,Magento_SalesArchive
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_Tax
+"Billing Address","ที่อยู่สำหรับออกใบเสร็จรับเงิน",module,Magento_Tax
+"Shipping Methods","วิธีการจัดส่ง",module,Magento_Checkout
+"Select Method","เลือกวิธีการ",module,Magento_Checkout
+"Shipping Methods","วิธีการจัดส่ง",module,Magento_Shipping
+"Shipping Methods","วิธีการจัดส่ง",module,Magento_Support
+"Order Summary","สรุปรายการสั่งซื้อ",module,Magento_Checkout
+"Review & Payments","ยืนยันและชำระเงิน",module,Magento_Checkout
+"continue shopping","เลือกซื้อสินค้าต่อ",module,Magento_Worldpay
+"It's a default billing address.","ที่อยู่นี้ ถูกใช้เป็นค่าเริ่มต้นสำหรับออกใบเสร็จรับเงิน",module,Magento_Customer
+"Use as my default billing address","ใช้ที่อยู่นี้เป็นค่าเริ่มต้นสำหรับออกใบเสร็จรับเงิน",module,Magento_Customer
+"It's a default shipping address.","ที่อยู่นี้ ถูกใช้เป็นค่าเริ่มต้นสำหรับจัดส่งสินค้า",module,Magento_Customer
+"Use as my default shipping address","ใช้ที่อยู่นี้เป็นค่าเริ่มต้นสำหรับจัดส่งสินค้า",module,Magento_Customer
+"Save Address","บันทึกที่อยู่",module,Magento_Customer
+"Go back","ย้อนกลับ",module,Magento_Customer
+"You saved the address.","คุณได้บันทึกที่อยู่เรียบร้อยแล้ว",module,Magento_Customer
+"Default Addresses","ค่าเริ่มต้นสำหรับที่อยู่",module,Magento_Customer
+"Change Billing Address","เปลี่ยนที่อยู่สำหรับออกใบเสร็จรับเงิน",module,Magento_Customer
+"You have no default billing address in your address book.","คุณยังไม่ได้เลือกที่อยู่หลักสำหรับออกใบเสร็จรับเงิน",module,Magento_Customer
+"Change Shipping Address","เปลี่ยนที่อยู่สำหรับจัดส่งสินค้า",module,Magento_Customer
+"You have no default shipping address in your address book.","คุณยังไม่ได้เลือกที่อยู่หลักสำหรับจัดส่งสินค้าในสมุดที่อยู่",module,Magento_Customer
+"Delete Address","ลบที่อยู่",module,Magento_Customer
+"Address","ที่อยู่",module,Magento_Customer
+"Region/State","จังหวัด,module,Magento_Email
+"State","จังหวัด",module,Magento_Tax
+"State","จังหวัด",module,Magento_Customer
+"Ship To:","จัดส่งที่:",module,Magento_Checkout
+"Ship to:","จัดส่งที่:",module,Magento_Multishipping
+"Ship to:","จัดส่งที่:",module,Magento_Sales
+"Reorder","สั่งซื้ออีกครั้ง",module,Magento_Sales
+"Pending Payment","รอการชำระเงิน",module,Magento_Sales
+"Processing","กำลังดำเนินการ",module,Magento_Sales
+"On Hold","ระงับชั่วคราว",module,Magento_Sales
+"Complete","สำเร็จ",module,Magento_Sales
+"Closed","ยกเลิก",module,Magento_Sales
+"Suspected Fraud","สงสัยว่ามีการทุจริต",module,Magento_Sales
+"Payment Review","รอตรวจสอบการชำระเงิน",module,Magento_Sales
+"New","ใหม่",module,Magento_Sales
+"About Your Order","ข้อมูลคำสั่งซื้อของคุณ",module,Magento_Sales
+"Items Ordered","รายการที่สั่ง",module,Magento_Sales
+"Invoices","บิล",module,Magento_Sales
+"Back to My Orders","กลับไปที่รายการคำสั่งซื้อ",module,Magento_Sales
+"Order # ","คำสั่งซื้อ # ",module,Magento_Rma
+"Ordered: ","สั่ง: ",module,Magento_Rma
+"Shipping Address:","ที่อยู่จัดส่งสินค้า:",module,Magento_Rma
+"Shipping & Handling","ค่าจัดส่ง",module,Magento_Sales
+"Shipping &amp; Handling","ค่าจัดส่ง",module,Magento_Sales
+"Apply Discount Code","โค้ดส่วนลด",module,Magento_Checkout
+"Enter discount code","กรอกโค้ดส่วนลด",module,Magento_Checkout
+"Apply Discount","ใช้โค้ด",module,Magento_Checkout
+"Cancel Coupon","ยกเลิกโค้ด",module,Magento_Checkout
+"Item in Cart","ชิ้นในตะกร้า",module,Magento_Checkout
+"Items in Cart","ชิ้นในตะกร้า",module,Magento_Checkout
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","เวลาทำการ:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"New Address","เพิ่มที่อยู่ใหม่",module,Magento_Checkout
+"New Address","เพิ่มที่อยู่ใหม่",module,Magento_GiftRegistry
