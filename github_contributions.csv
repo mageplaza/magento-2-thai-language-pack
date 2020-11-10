@@ -102,7 +102,7 @@ None,ไม่มี,module,Magento_AdminGws
 "Invoices","บิล",module,Magento_Sales
 "Back to My Orders","กลับไปที่รายการคำสั่งซื้อ",module,Magento_Sales
 "Order # ","คำสั่งซื้อ # ",module,Magento_Rma
-"Ordered: ","สั่ง: ",module,Magento_Rma
+"Ordered: ","สั่งซื้อ: ",module,Magento_Rma
 "Shipping Address:","ที่อยู่จัดส่งสินค้า:",module,Magento_Rma
 "Shipping & Handling","ค่าจัดส่ง",module,Magento_Sales
 "Shipping &amp; Handling","ค่าจัดส่ง",module,Magento_Sales
@@ -115,3 +115,103 @@ None,ไม่มี,module,Magento_AdminGws
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","เวลาทำการ:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
 "New Address","เพิ่มที่อยู่ใหม่",module,Magento_Checkout
 "New Address","เพิ่มที่อยู่ใหม่",module,Magento_GiftRegistry
+"Billing Address","ที่อยู่สำหรับออกใบเสร็จรับเงิน",module,Magento_Customer
+"Change","เปลี่ยน",module,Magento_Customer
+"The product's required option(s) weren't entered. Make sure the options are entered and try again.","กรุณาเลือกตัวเลือกของสินค้านี้",module,Magento_Catalog
+"Are you sure you would like to remove this item from the shopping cart?","คุณกำลังนำสินค้าออกจากตะกร้า คุณแน่ใจแล้วใช่หรือไม่",module,Magento_Checkout
+"Invoice # ","บิล # ",module,Magento_Sales
+"Back to My Orders","กลับไปที่รายการคำสั่งซื้อ",module,Magento_Shipping
+"Order Information","ข้อมูลคำสั่งซื้อ",module,Magento_Sales
+"Qty Invoiced","จำนวนที่ลงบิล",module,Magento_Sales
+"Qty Invoiced","จำนวนที่ลงบิล",module,Magento_Bundle
+"Qty Invoiced","จำนวนที่ลงบิล",module,Magento_Downloadable
+"This is a required field.","ช่องนี้ห้ามเว้นว่าง",lib,web
+"This is a required field.","ช่องนี้ห้ามเว้นว่าง",module,Magento_CompanyCredit
+"This is a required field.","ช่องนี้ห้ามเว้นว่าง",module,Magento_NegotiableQuote
+"This is a required field.","ช่องนี้ห้ามเว้นว่าง",module,Magento_Ui
+"Ship To","จัดส่งถึง",module,Magento_Paypal
+"Ship To","จัดส่งถึง",module,Magento_Sales
+"View Order","ดูรายการสั่งซื้อ",module,Magento_Downloadable
+"View Order","ดูรายการสั่งซื้อ",module,Magento_Paypal
+"View Order","ดูรายการสั่งซื้อ",module,Magento_Sales
+"Recent Orders","ค่าสั่งซื้อที่ผ่านมาล่าสุด",module,Magento_Sales
+"Shipping & Handling","ค่าจัดส่ง",module,Magento_SalesArchive
+"Shipping & Handling (Excl.Tax)","ค่าจัดส่ง (ไม่รวมภาษี)",module,Magento_Tax
+"Shipping & Handling (Incl.Tax)","ค่าจัดส่ง (รวมภาษี)",module,Magento_Tax
+"Shipping & Handling","ค่าจัดส่ง",module,Magento_NegotiableQuote
+"Shipping & Handling (%1)","ค่าจัดส่ง (%1)",module,Magento_Quote
+"Shipping & Handling","ค่าจัดส่ง",module,Magento_Quote
+"View and Edit Cart","ดูหรือปรับเปลี่ยนสินค้าในตะกร้า",module,Magento_Checkout
+"Your password reset link has expired.","ลิงค์สำหรับเปลี่ยนรหัสผ่านของคุณหมดอายุแล้ว",module,Magento_Customer
+"Attention","โปรดทราบ",module,Magento_Ui
+"OK","ตกลง",module,Magento_Ui
+"Ok","ตกลง",module,Magento_Ui
+"The requested qty is not available","จำนวนของสินค้ามีไม่เพียบพอตามที่คุณต้องการ",module,Magento_CatalogInventory
+"The requested qty is not available","จำนวนของสินค้ามีไม่เพียบพอตามที่คุณต้องการ",module,Magento_RequisitionList
+"You are signed out","ออกจากระบบแล้ว",module,Magento_Customer
+"You are signed out.","ออกจากระบบแล้ว",module,Magento_Customer
+"You have signed out and will go to our homepage in 5 seconds.","คุณได้ออกจากระบบเรียบร้อยแล้ว และกำลังจะไปที่หน้าแรกของเว็บไซต์ใน 5 วินาที",module,Magento_Customer
+"Please specify a regionId in shipping address.","กรุณาระบุจังหวัดในที่อยู่จัดส่งสินค้า",module,Magento_Checkout
+"Please check the billing address information. %1","กรุณาตรวจสอบที่อยู่สำหรับออกใบเสร็จรับเงิน %1",module,Magento_Quote
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_Bundle
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_Company
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_Customer
+"""regionId"" is required. Enter and try again.","""regionId"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_Customer
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_Integration
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_NegotiableQuote
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_Tax
+"""User Name"" is required. Enter and try again.","""ชื่อผู้ใช้"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_User
+"""First Name"" is required. Enter and try again.","""ชื่อจริง"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_User
+"""Last Name"" is required. Enter and try again.","""นามสกุล"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_User
+"We'll send your order confirmation here.","เราจะส่งอีเมลยืนยันคำสั่งซื้อไปที่นี่",module,Magento_Checkout
+"Sorry, no quotes are available for this order at this time","ขออภัย ไม่มีตัวเลือกการจัดส่งสำหรับคำสั่งซื้อนี้ ในตอนนี้",module,Magento_Checkout
+"Thank you for registering with %1.","ขอบคุณที่สมัครสมาชิกกับ %1.",module,Magento_Customer
+"Thank you for registering with","ขอบคุณที่สมัครสมาชิกกับ",module,Magento_Customer
+"Search results for: '%1'","ผลการค้นหาสำหรับ: '%1'",module,Magento_CatalogSearch
+"Relevance","ความใกล้เคียง",module,Magento_CatalogSearch
+"Apply Discount Code","ใช้โค้ดส่วนลด",module,Magento_SalesRule
+"Enter discount code","กรอกโค้ดส่วนลด",module,Magento_SalesRule
+"Apply Discount","ใช้โค้ด",module,Magento_SalesRule
+"Cancel coupon","ยกเลิกโค้ด",module,Magento_SalesRule
+"Your coupon was successfully removed.","ยกเลิกโค้ดส่วนลดเรียบร้อยแล้ว",module,Magento_SalesRule
+"Your coupon was successfully applied.","ใส่โค้ดส่วนลดเรียบร้อยแล้ว",module,Magento_SalesRule
+"Promotion","โปรโมชั่น",module,Magento_SalesRule
+"Close Window","ปิดหน้าต่าง",module,Magento_Rma
+"Close Window","ปิดหน้าต่าง",module,Magento_Shipping
+"Shipment #%1","ใบส่งสินค้า #%1",module,Magento_Sales
+"Shipment #","ใบส่งสินค้า #",module,Magento_Shipping
+"Tracking Information","ข้อมูลสำหรับติดตามสินค้า",module,Magento_Rma
+"Tracking Information","ข้อมูลสำหรับติดตามสินค้า",module,Magento_Shipping
+"Order Shipments","การจัดส่ง",module,Magento_Sales
+"Invoice #","บิล #",module,Magento_Sales
+"Invoices","บิล",module,Magento_SalesArchive
+"Order #%1","คำสั่งซื้อ #%1",module,Magento_Backend
+"Order #","คำสั่งซื้อ #",module,Magento_Checkout
+"Order # %1","คำสั่งซื้อ # %1",module,Magento_CompanyCredit
+"Order #%1","คำสั่งซื้อ #%1",module,Magento_CustomerBalance
+"Order #%1, creditmemo #%2","คำสั่งซื้อ #%1, ใบลดหนี้ #%2",module,Magento_CustomerBalance
+"Order #","คำสั่งซื้อ #",module,Magento_Downloadable
+"Order #%1.","คำสั่งซื้อ #%1.",module,Magento_GiftCardAccount
+"Order #","คำสั่งซื้อ #",module,Magento_Paypal
+"Edit Order #%1","แก้ไขคำสั่งซื้อ #%1",module,Magento_Sales
+"Order # %1 %2 | %3","คำสั่งซื้อ # %1 %2 | %3",module,Magento_Sales
+"Order # %1","คำสั่งซื้อ # %1",module,Magento_Sales
+"Print Order # %1","พิมพ์คำสั่งซื้อ # %1",module,Magento_Sales
+"Order # ","คำสั่งซื้อ # ",module,Magento_Sales
+"Order Date: ","วันที่สั่งซื้อ: ",module,Magento_Sales
+"Order #","คำสั่งซื้อ #",module,Magento_Sales
+"Order #","คำสั่งซื้อ #",module,Magento_SalesArchive
+"Order # %1","คำสั่งซื้อ # %1",module,Magento_Shipping
+"Ordered","สั่งซื้อ",module,Magento_Bundle
+"Shipped","จัดส่ง",module,Magento_Bundle
+"Ordered","สั่งซื้อ",module,Magento_Downloadable
+"Shipped","จัดส่ง",module,Magento_Downloadable
+"Ordered","สั่งซื้อ",module,Magento_GiftCard
+"Ordered","สั่งซื้อ",module,Magento_Rma
+"Ordered","สั่งซื้อ",module,Magento_Sales
+"Shipped","จัดส่ง",module,Magento_Sales
+"Track All Shipments","ติดตามการจัดส่งทั้งหมด",module,Magento_Shipping
+"Track this shipment","ติดตามการจัดส่งนี้",module,Magento_Rma
+"Track this shipment","ติดตามการจัดส่งนี้",module,Magento_Shipping
+"Shipment #%1 | %3 (%2)","ใบส่งสินค้า #%1 | %3 (%2)",module,Magento_Shipping
+"Tracking Number(s):","หมายเลขติดตามพัสดุ:",module,Magento_Shipping
