@@ -215,3 +215,20 @@ None,ไม่มี,module,Magento_AdminGws
 "Track this shipment","ติดตามการจัดส่งนี้",module,Magento_Shipping
 "Shipment #%1 | %3 (%2)","ใบส่งสินค้า #%1 | %3 (%2)",module,Magento_Shipping
 "Tracking Number(s):","หมายเลขติดตามพัสดุ:",module,Magento_Shipping
+"Please enter a valid email address.","กรุณากรอกอีเมลให้ถูกต้อง",module,Magento_GiftRegistry
+"Please enter a valid email address(for example, daniel@x.com).","กรุณากรอกอีเมลให้ถูกต้อง(ตัวอย่าง, daniel@x.com).",module,Magento_GiftRegistry
+"Please enter a valid email address.","กรุณากรอกอีเมลให้ถูกต้อง",module,Magento_MultipleWishlist
+"Please enter a valid email address.","กรุณากรอกอีเมลให้ถูกต้อง",module,Magento_Newsletter
+"Please enter a valid email address (Ex: johndoe@domain.com).","กรุณากรอกอีเมลให้ถูกต้อง (ตัวอย่าง: johndoe@domain.com).",module,Magento_Ui
+"Please enter a valid email address.","กรุณากรอกอีเมลให้ถูกต้อง",module,Magento_Wishlist
+"Please enter a valid email address (Ex: johndoe@domain.com).","กรุณากรอกอีเมลให้ถูกต้อง (ตัวอย่าง: johndoe@domain.com).",lib,web
+"Please enter a valid email address.","กรุณากรอกอีเมลให้ถูกต้อง",lib,web
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","ข้อมูลบัญชีที่ใช้เข้าสู่ระบบอาจไม่ถูกต้อง หรือบัญชีอาจถูกระงับชั่วคราว กรุณาลองใหม่ในภายหลัง",module,Magento_Backend
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","ข้อมูลบัญชีที่ใช้เข้าสู่ระบบอาจไม่ถูกต้อง หรือบัญชีอาจถูกระงับชั่วคราว กรุณาลองใหม่ในภายหลัง",module,Magento_Customer
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","ข้อมูลบัญชีที่ใช้เข้าสู่ระบบอาจไม่ถูกต้อง หรือบัญชีอาจถูกระงับชั่วคราว กรุณาลองใหม่ในภายหลัง",module,Magento_Integration
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","ข้อมูลบัญชีที่ใช้เข้าสู่ระบบอาจไม่ถูกต้อง หรือบัญชีอาจถูกระงับชั่วคราว กรุณาลองใหม่ในภายหลัง",module,Magento_User
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","รหัสผ่านต้องมีชนิดของตัวอักษรแตกต่างกันอย่างน้อย %1 ชนิด โดยชนิดของตัวอักษรมีดังนี้ ตัวพิมพ์เล็ก, ตัวพิมพ์ใหญ่, ตัวเลข, อักขระพิเศษ",module,Magento_Customer
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","รหัสผ่านต้องมีชนิดของตัวอักษรแตกต่างกันอย่างน้อย %1 ชนิด โดยชนิดของตัวอักษรมีดังนี้ ตัวพิมพ์เล็ก, ตัวพิมพ์ใหญ่, ตัวเลข, อักขระพิเศษ",module,Magento_Ui
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","รหัสผ่านต้องมีชนิดของตัวอักษรแตกต่างกันอย่างน้อย %1 ชนิด โดยชนิดของตัวอักษรมีดังนี้ ตัวพิมพ์เล็ก, ตัวพิมพ์ใหญ่, ตัวเลข, อักขระพิเศษ",lib,web
+"Starting at","ราคาเริ่มต้น",module,Magento_GroupedProduct
+"This product is out of stock.","สินค้าหมด",module,Magento_CatalogInventory
