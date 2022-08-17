@@ -1,6 +1,6 @@
 ## Magento 2 Thai Language Pack
 
-
+ 
 
 Read more [Magento 2 Thai Language Pack](https://www.mageplaza.com/magento-2-thai-language-pack.html)
 
@@ -20,14 +20,14 @@ Read more [Magento 2 Thai Language Pack](https://www.mageplaza.com/magento-2-tha
 
 This is status of Thai Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](https://progress-bar.dev/15/?title=translated)
+![Thai language pack process](https://progress-bar.dev//?title=completed)
 
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
 - [On Github](https://github.com/mageplaza/magento-2-thai-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
-Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
+Find other [language packs here](https://www.mageplaza.com/magento-2-extensions/language-packs.html)
 
 ## 2. How to Install Thai Language Pack
 
@@ -38,13 +38,24 @@ Install the Thai language pack via composer is never easier.
 
 **Install Thai pack**:
 
+With Marketing Automation (recommend):
+
+```
+composer require mageplaza/magento-2-thai-language-pack:dev-master mageplaza/module-smtp 
+php bin/magento setup:static-content:deploy th_TH
+php bin/magento indexer:reindex
+php bin/magento cache:clean
+php bin/magento cache:flush
+```
+
+Without Marketing Automation:
+
 ```
 composer require mageplaza/magento-2-thai-language-pack:dev-master
 php bin/magento setup:static-content:deploy th_TH
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
-
 ```
 
 
@@ -153,6 +164,7 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 - Magento v2.1.x
 - Magento v2.2.x
 - Magento v2.3.x
+- Magento v2.4.x
 
 
 

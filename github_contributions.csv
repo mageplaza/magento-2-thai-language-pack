@@ -1,7 +1,7 @@
 Mageplaza,Mageplaza
 All,ทั้งหมด,module,Magento_AdminGws
 None,ไม่มี,module,Magento_AdminGws
-"Add Products","เพิ่มสินค้า",module,Magento_AdvancedCheckout
+Add Products,เพิ่มสินค้า,module,Magento_AdvancedCheckout
 Quick Checkout,ชำระเงินด่วน,theme,frontend/Magento/luma
 Order Status,สถานะคำสั่งซื้อ,theme,frontend/Magento/luma
 Manage Addresses,จัดการที่อยู่,theme,frontend/Magento/luma
@@ -4040,4 +4040,233 @@ Access the Magento Shipping Portal here,เข้าสู่ Magento Shipping P
 Request Shipping Account,ขอบัญชีการจัดส่ง,module,Temando_Shipping
 "Once you have activated Magento Shipping, configure these sections to get up and running:",เมื่อคุณได้เปิดใช้งานการจัดส่งวีโอไอพีแล้ว ให้กำหนดค่าส่วนนี้เพื่อเริ่มต้นและใช้งาน:,module,Temando_Shipping
 Shipping Experiences via %1 portal,ประสบการณ์ในการจัดส่งผ่าน portal %1,module,Temando_Shipping
-
+"Buy Now","ซื้อทันที",module,Magento_Paypal
+"Continue Shopping","เลือกซื้อสินค้าต่อ",module,Magento_Checkout
+"Continue Shopping","เลือกซื้อสินค้าต่อ",module,Magento_Multishipping
+"Continue Shopping","เลือกซื้อสินค้าต่อ",module,Magento_NegotiableQuote
+"Edit Account Information","แก้ไขข้อมูลส่วนตัว",module,Magento_Customer
+"You added %1 to your <a href=""%2"">shopping cart</a>.","คุณเพิ่ม %1 ลงใน <a href=""%2"">ตะกร้าสินค้า</a>",module,Magento_Checkout
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","ถ้าคุณมีบัญชีที่สมัครด้วยอีเมล์ %1 คุณจะได้รับอีเมล์ที่มีลิงค์สำหรับตั้งรหัสผ่านใหม่",module,Magento_Customer
+"Confirm Password","ยืนยันรหัสผ่าน",module,Magento_Customer
+"Create an Account","สร้างบัญชีผู้ใช้",module,Magento_Customer
+"Set a New Password","ตั้งรหัสผ่านใหม่",module,Magento_Customer
+"Minimum Password Length","รหัสผ่านต้องมีความยาวอย่างน้อย",module,Magento_Customer
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","ช่องนี้ต้องมีความยาวตัวอักษรมากกว่าหรือเท่ากับ %1 ตัว เว้นวรรคที่อยู่ด้านหน้าและด้านหลังจะถูกตัดออก",module,Magento_Ui
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","ช่องนี้ต้องมีความยาวตัวอักษรมากกว่าหรือเท่ากับ %1 ตัว เว้นวรรคที่อยู่ด้านหน้าและด้านหลังจะถูกตัดออก",lib,web
+"You updated your password.","เปลี่ยนรหัสผ่านเรียบร้อยแล้ว",module,Magento_Customer
+"You updated your password.","เปลี่ยนรหัสผ่านเรียบร้อยแล้ว",module,Magento_User
+"* Required Fields","* ข้อมูลที่จำเป็นต้องกรอก",module,Magento_Review
+"* Required Fields","* ข้อมูลที่จำเป็นต้องกรอก",module,Magento_SendFriend
+"* Required Fields","* ข้อมูลที่จำเป็นต้องกรอก",module,Magento_Wishlist
+"City","เขต/อำเภอ",module,Magento_Backend
+"City","เขต/อำเภอ",module,Magento_Braintree
+"City","เขต/อำเภอ",module,Magento_Checkout
+"City","เขต/อำเภอ",module,Magento_Company
+"City","เขต/อำเภอ",module,Magento_Customer
+"City","เขต/อำเภอ",module,Magento_CustomerCustomAttributes
+"City","เขต/อำเภอ",module,Magento_Email
+"City","เขต/อำเภอ",module,Magento_GiftRegistry
+"City","เขต/อำเภอ",module,Magento_Rma
+"City","เขต/อำเภอ",module,Magento_Sales
+"City","เขต/อำเภอ",module,Magento_Shipping
+"Ship Here","จัดส่งที่นี่",module,Magento_Checkout
+"Ship Here","จัดส่งที่นี่",module,Magento_GiftRegistry
+"Ship Here","จัดส่งที่นี่",module,Magento_NegotiableQuote
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_Checkout
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_Customer
+"Default Billing Address","ค่าเริ่มต้นที่อยู่สำหรับออกใบเสร็จรับเงิน",module,Magento_CustomerCustomAttributes
+"Default Shipping Address","ค่าเริ่มต้นที่อยู่สำหรับจัดส่งสินค้า",module,Magento_CustomerCustomAttributes
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_GiftRegistry
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_InstantPurchase
+"Billing Address","ที่อยู่สำหรับออกใบเสร็จรับเงิน",module,Magento_InstantPurchase
+"Payment Method","วิธีการชำระเงิน",module,Magento_InstantPurchase
+"Shipping Method","วิธีการจัดส่ง",module,Magento_InstantPurchase
+"Shipping Methods","วิธีการจัดส่ง",module,Magento_Multishipping
+"Edit Billing Address","แก้ไขที่อยู่สำหรับออกใบเสร็จรับเงิน",module,Magento_Multishipping
+"Edit Shipping Address","แก้ไขที่อยู่จัดส่งสินค้า",module,Magento_Multishipping
+"Create Billing Address","สร้างที่อยู่สำหรับออกใบเสร็จรับเงิน",module,Magento_Multishipping
+"Create Shipping Address","สร้างที่อยู่จัดส่งสินค้า",module,Magento_Multishipping
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_NegotiableQuote
+"Shipping address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_NegotiableQuote
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_Paypal
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_Rma
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_Sales
+"Shipping Method","วิธีการจัดส่ง",module,Magento_Sales
+"Shipping Address: ","ที่อยู่จัดส่ง: ",module,Magento_Sales
+"Billing Address: ","ที่อยู่ออกบิล: ",module,Magento_Sales
+"Billing Address","ที่อยู่สำหรับออกใบเสร็จรับเงิน",module,Magento_SalesArchive
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_SalesArchive
+"Customer Name","ชื่อลูกค้า",module,Magento_SalesArchive
+"Shipping Address","ที่อยู่สำหรับจัดส่งสินค้า",module,Magento_Tax
+"Billing Address","ที่อยู่สำหรับออกใบเสร็จรับเงิน",module,Magento_Tax
+"Shipping Methods","วิธีการจัดส่ง",module,Magento_Checkout
+"Select Method","เลือกวิธีการ",module,Magento_Checkout
+"Shipping Methods","วิธีการจัดส่ง",module,Magento_Shipping
+"Shipping Methods","วิธีการจัดส่ง",module,Magento_Support
+"Order Summary","สรุปรายการสั่งซื้อ",module,Magento_Checkout
+"Review & Payments","ยืนยันและชำระเงิน",module,Magento_Checkout
+"continue shopping","เลือกซื้อสินค้าต่อ",module,Magento_Worldpay
+"It's a default billing address.","ที่อยู่นี้ ถูกใช้เป็นค่าเริ่มต้นสำหรับออกใบเสร็จรับเงิน",module,Magento_Customer
+"Use as my default billing address","ใช้ที่อยู่นี้เป็นค่าเริ่มต้นสำหรับออกใบเสร็จรับเงิน",module,Magento_Customer
+"It's a default shipping address.","ที่อยู่นี้ ถูกใช้เป็นค่าเริ่มต้นสำหรับจัดส่งสินค้า",module,Magento_Customer
+"Use as my default shipping address","ใช้ที่อยู่นี้เป็นค่าเริ่มต้นสำหรับจัดส่งสินค้า",module,Magento_Customer
+"Save Address","บันทึกที่อยู่",module,Magento_Customer
+"Go back","ย้อนกลับ",module,Magento_Customer
+"You saved the address.","คุณได้บันทึกที่อยู่เรียบร้อยแล้ว",module,Magento_Customer
+"Default Addresses","ค่าเริ่มต้นสำหรับที่อยู่",module,Magento_Customer
+"Change Billing Address","เปลี่ยนที่อยู่สำหรับออกใบเสร็จรับเงิน",module,Magento_Customer
+"You have no default billing address in your address book.","คุณยังไม่ได้เลือกที่อยู่หลักสำหรับออกใบเสร็จรับเงิน",module,Magento_Customer
+"Change Shipping Address","เปลี่ยนที่อยู่สำหรับจัดส่งสินค้า",module,Magento_Customer
+"You have no default shipping address in your address book.","คุณยังไม่ได้เลือกที่อยู่หลักสำหรับจัดส่งสินค้าในสมุดที่อยู่",module,Magento_Customer
+"Delete Address","ลบที่อยู่",module,Magento_Customer
+"Address","ที่อยู่",module,Magento_Customer
+"Region/State","จังหวัด,module,Magento_Email
+"State","จังหวัด",module,Magento_Tax
+"State","จังหวัด",module,Magento_Customer
+"Ship To:","จัดส่งที่:",module,Magento_Checkout
+"Ship to:","จัดส่งที่:",module,Magento_Multishipping
+"Ship to:","จัดส่งที่:",module,Magento_Sales
+"Reorder","สั่งซื้ออีกครั้ง",module,Magento_Sales
+"Pending Payment","รอการชำระเงิน",module,Magento_Sales
+"Processing","กำลังดำเนินการ",module,Magento_Sales
+"On Hold","ระงับชั่วคราว",module,Magento_Sales
+"Complete","สำเร็จ",module,Magento_Sales
+"Closed","ยกเลิก",module,Magento_Sales
+"Suspected Fraud","สงสัยว่ามีการทุจริต",module,Magento_Sales
+"Payment Review","รอตรวจสอบการชำระเงิน",module,Magento_Sales
+"New","ใหม่",module,Magento_Sales
+"About Your Order","ข้อมูลคำสั่งซื้อของคุณ",module,Magento_Sales
+"Items Ordered","รายการที่สั่ง",module,Magento_Sales
+"Invoices","บิล",module,Magento_Sales
+"Back to My Orders","กลับไปที่รายการคำสั่งซื้อ",module,Magento_Sales
+"Order # ","คำสั่งซื้อ # ",module,Magento_Rma
+"Ordered: ","สั่งซื้อ: ",module,Magento_Rma
+"Shipping Address:","ที่อยู่จัดส่งสินค้า:",module,Magento_Rma
+"Shipping & Handling","ค่าจัดส่ง",module,Magento_Sales
+"Shipping &amp; Handling","ค่าจัดส่ง",module,Magento_Sales
+"Apply Discount Code","โค้ดส่วนลด",module,Magento_Checkout
+"Enter discount code","กรอกโค้ดส่วนลด",module,Magento_Checkout
+"Apply Discount","ใช้โค้ด",module,Magento_Checkout
+"Cancel Coupon","ยกเลิกโค้ด",module,Magento_Checkout
+"Item in Cart","ชิ้นในตะกร้า",module,Magento_Checkout
+"Items in Cart","ชิ้นในตะกร้า",module,Magento_Checkout
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","เวลาทำการ:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"New Address","เพิ่มที่อยู่ใหม่",module,Magento_Checkout
+"New Address","เพิ่มที่อยู่ใหม่",module,Magento_GiftRegistry
+"Billing Address","ที่อยู่สำหรับออกใบเสร็จรับเงิน",module,Magento_Customer
+"Change","เปลี่ยน",module,Magento_Customer
+"The product's required option(s) weren't entered. Make sure the options are entered and try again.","กรุณาเลือกตัวเลือกของสินค้านี้",module,Magento_Catalog
+"Are you sure you would like to remove this item from the shopping cart?","คุณกำลังนำสินค้าออกจากตะกร้า คุณแน่ใจแล้วใช่หรือไม่",module,Magento_Checkout
+"Invoice # ","บิล # ",module,Magento_Sales
+"Back to My Orders","กลับไปที่รายการคำสั่งซื้อ",module,Magento_Shipping
+"Order Information","ข้อมูลคำสั่งซื้อ",module,Magento_Sales
+"Qty Invoiced","จำนวนที่ลงบิล",module,Magento_Sales
+"Qty Invoiced","จำนวนที่ลงบิล",module,Magento_Bundle
+"Qty Invoiced","จำนวนที่ลงบิล",module,Magento_Downloadable
+"This is a required field.","ช่องนี้ห้ามเว้นว่าง",lib,web
+"This is a required field.","ช่องนี้ห้ามเว้นว่าง",module,Magento_CompanyCredit
+"This is a required field.","ช่องนี้ห้ามเว้นว่าง",module,Magento_NegotiableQuote
+"This is a required field.","ช่องนี้ห้ามเว้นว่าง",module,Magento_Ui
+"Ship To","จัดส่งถึง",module,Magento_Paypal
+"Ship To","จัดส่งถึง",module,Magento_Sales
+"View Order","ดูรายการสั่งซื้อ",module,Magento_Downloadable
+"View Order","ดูรายการสั่งซื้อ",module,Magento_Paypal
+"View Order","ดูรายการสั่งซื้อ",module,Magento_Sales
+"Recent Orders","ค่าสั่งซื้อที่ผ่านมาล่าสุด",module,Magento_Sales
+"Shipping & Handling","ค่าจัดส่ง",module,Magento_SalesArchive
+"Shipping & Handling (Excl.Tax)","ค่าจัดส่ง (ไม่รวมภาษี)",module,Magento_Tax
+"Shipping & Handling (Incl.Tax)","ค่าจัดส่ง (รวมภาษี)",module,Magento_Tax
+"Shipping & Handling","ค่าจัดส่ง",module,Magento_NegotiableQuote
+"Shipping & Handling (%1)","ค่าจัดส่ง (%1)",module,Magento_Quote
+"Shipping & Handling","ค่าจัดส่ง",module,Magento_Quote
+"View and Edit Cart","ดูหรือปรับเปลี่ยนสินค้าในตะกร้า",module,Magento_Checkout
+"Your password reset link has expired.","ลิงค์สำหรับเปลี่ยนรหัสผ่านของคุณหมดอายุแล้ว",module,Magento_Customer
+"Attention","โปรดทราบ",module,Magento_Ui
+"OK","ตกลง",module,Magento_Ui
+"Ok","ตกลง",module,Magento_Ui
+"The requested qty is not available","จำนวนของสินค้ามีไม่เพียบพอตามที่คุณต้องการ",module,Magento_CatalogInventory
+"The requested qty is not available","จำนวนของสินค้ามีไม่เพียบพอตามที่คุณต้องการ",module,Magento_RequisitionList
+"You are signed out","ออกจากระบบแล้ว",module,Magento_Customer
+"You are signed out.","ออกจากระบบแล้ว",module,Magento_Customer
+"You have signed out and will go to our homepage in 5 seconds.","คุณได้ออกจากระบบเรียบร้อยแล้ว และกำลังจะไปที่หน้าแรกของเว็บไซต์ใน 5 วินาที",module,Magento_Customer
+"Please specify a regionId in shipping address.","กรุณาระบุจังหวัดในที่อยู่จัดส่งสินค้า",module,Magento_Checkout
+"Please check the billing address information. %1","กรุณาตรวจสอบที่อยู่สำหรับออกใบเสร็จรับเงิน %1",module,Magento_Quote
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_Bundle
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_Company
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_Customer
+"""regionId"" is required. Enter and try again.","""regionId"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_Customer
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_Integration
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_NegotiableQuote
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_Tax
+"""User Name"" is required. Enter and try again.","""ชื่อผู้ใช้"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_User
+"""First Name"" is required. Enter and try again.","""ชื่อจริง"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_User
+"""Last Name"" is required. Enter and try again.","""นามสกุล"" จำเป็นต้องกรอก กรุณากรอกและลองอีกครั้ง",module,Magento_User
+"We'll send your order confirmation here.","เราจะส่งอีเมลยืนยันคำสั่งซื้อไปที่นี่",module,Magento_Checkout
+"Sorry, no quotes are available for this order at this time","ขออภัย ไม่มีตัวเลือกการจัดส่งสำหรับคำสั่งซื้อนี้ ในตอนนี้",module,Magento_Checkout
+"Thank you for registering with %1.","ขอบคุณที่สมัครสมาชิกกับ %1.",module,Magento_Customer
+"Thank you for registering with","ขอบคุณที่สมัครสมาชิกกับ",module,Magento_Customer
+"Search results for: '%1'","ผลการค้นหาสำหรับ: '%1'",module,Magento_CatalogSearch
+"Relevance","ความใกล้เคียง",module,Magento_CatalogSearch
+"Apply Discount Code","ใช้โค้ดส่วนลด",module,Magento_SalesRule
+"Enter discount code","กรอกโค้ดส่วนลด",module,Magento_SalesRule
+"Apply Discount","ใช้โค้ด",module,Magento_SalesRule
+"Cancel coupon","ยกเลิกโค้ด",module,Magento_SalesRule
+"Your coupon was successfully removed.","ยกเลิกโค้ดส่วนลดเรียบร้อยแล้ว",module,Magento_SalesRule
+"Your coupon was successfully applied.","ใส่โค้ดส่วนลดเรียบร้อยแล้ว",module,Magento_SalesRule
+"Promotion","โปรโมชั่น",module,Magento_SalesRule
+"Close Window","ปิดหน้าต่าง",module,Magento_Rma
+"Close Window","ปิดหน้าต่าง",module,Magento_Shipping
+"Shipment #%1","ใบส่งสินค้า #%1",module,Magento_Sales
+"Shipment #","ใบส่งสินค้า #",module,Magento_Shipping
+"Tracking Information","ข้อมูลสำหรับติดตามสินค้า",module,Magento_Rma
+"Tracking Information","ข้อมูลสำหรับติดตามสินค้า",module,Magento_Shipping
+"Order Shipments","การจัดส่ง",module,Magento_Sales
+"Invoice #","บิล #",module,Magento_Sales
+"Invoices","บิล",module,Magento_SalesArchive
+"Order #%1","คำสั่งซื้อ #%1",module,Magento_Backend
+"Order #","คำสั่งซื้อ #",module,Magento_Checkout
+"Order # %1","คำสั่งซื้อ # %1",module,Magento_CompanyCredit
+"Order #%1","คำสั่งซื้อ #%1",module,Magento_CustomerBalance
+"Order #%1, creditmemo #%2","คำสั่งซื้อ #%1, ใบลดหนี้ #%2",module,Magento_CustomerBalance
+"Order #","คำสั่งซื้อ #",module,Magento_Downloadable
+"Order #%1.","คำสั่งซื้อ #%1.",module,Magento_GiftCardAccount
+"Order #","คำสั่งซื้อ #",module,Magento_Paypal
+"Edit Order #%1","แก้ไขคำสั่งซื้อ #%1",module,Magento_Sales
+"Order # %1 %2 | %3","คำสั่งซื้อ # %1 %2 | %3",module,Magento_Sales
+"Order # %1","คำสั่งซื้อ # %1",module,Magento_Sales
+"Print Order # %1","พิมพ์คำสั่งซื้อ # %1",module,Magento_Sales
+"Order # ","คำสั่งซื้อ # ",module,Magento_Sales
+"Order Date: ","วันที่สั่งซื้อ: ",module,Magento_Sales
+"Order #","คำสั่งซื้อ #",module,Magento_Sales
+"Order #","คำสั่งซื้อ #",module,Magento_SalesArchive
+"Order # %1","คำสั่งซื้อ # %1",module,Magento_Shipping
+"Ordered","สั่งซื้อ",module,Magento_Bundle
+"Shipped","จัดส่ง",module,Magento_Bundle
+"Ordered","สั่งซื้อ",module,Magento_Downloadable
+"Shipped","จัดส่ง",module,Magento_Downloadable
+"Ordered","สั่งซื้อ",module,Magento_GiftCard
+"Ordered","สั่งซื้อ",module,Magento_Rma
+"Ordered","สั่งซื้อ",module,Magento_Sales
+"Shipped","จัดส่ง",module,Magento_Sales
+"Track All Shipments","ติดตามการจัดส่งทั้งหมด",module,Magento_Shipping
+"Track this shipment","ติดตามการจัดส่งนี้",module,Magento_Rma
+"Track this shipment","ติดตามการจัดส่งนี้",module,Magento_Shipping
+"Shipment #%1 | %3 (%2)","ใบส่งสินค้า #%1 | %3 (%2)",module,Magento_Shipping
+"Tracking Number(s):","หมายเลขติดตามพัสดุ:",module,Magento_Shipping
+"Please enter a valid email address.","กรุณากรอกอีเมลให้ถูกต้อง",module,Magento_GiftRegistry
+"Please enter a valid email address(for example, daniel@x.com).","กรุณากรอกอีเมลให้ถูกต้อง(ตัวอย่าง, daniel@x.com).",module,Magento_GiftRegistry
+"Please enter a valid email address.","กรุณากรอกอีเมลให้ถูกต้อง",module,Magento_MultipleWishlist
+"Please enter a valid email address.","กรุณากรอกอีเมลให้ถูกต้อง",module,Magento_Newsletter
+"Please enter a valid email address (Ex: johndoe@domain.com).","กรุณากรอกอีเมลให้ถูกต้อง (ตัวอย่าง: johndoe@domain.com).",module,Magento_Ui
+"Please enter a valid email address.","กรุณากรอกอีเมลให้ถูกต้อง",module,Magento_Wishlist
+"Please enter a valid email address (Ex: johndoe@domain.com).","กรุณากรอกอีเมลให้ถูกต้อง (ตัวอย่าง: johndoe@domain.com).",lib,web
+"Please enter a valid email address.","กรุณากรอกอีเมลให้ถูกต้อง",lib,web
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","ข้อมูลบัญชีที่ใช้เข้าสู่ระบบอาจไม่ถูกต้อง หรือบัญชีอาจถูกระงับชั่วคราว กรุณาลองใหม่ในภายหลัง",module,Magento_Backend
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","ข้อมูลบัญชีที่ใช้เข้าสู่ระบบอาจไม่ถูกต้อง หรือบัญชีอาจถูกระงับชั่วคราว กรุณาลองใหม่ในภายหลัง",module,Magento_Customer
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","ข้อมูลบัญชีที่ใช้เข้าสู่ระบบอาจไม่ถูกต้อง หรือบัญชีอาจถูกระงับชั่วคราว กรุณาลองใหม่ในภายหลัง",module,Magento_Integration
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","ข้อมูลบัญชีที่ใช้เข้าสู่ระบบอาจไม่ถูกต้อง หรือบัญชีอาจถูกระงับชั่วคราว กรุณาลองใหม่ในภายหลัง",module,Magento_User
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","รหัสผ่านต้องมีชนิดของตัวอักษรแตกต่างกันอย่างน้อย %1 ชนิด โดยชนิดของตัวอักษรมีดังนี้ ตัวพิมพ์เล็ก, ตัวพิมพ์ใหญ่, ตัวเลข, อักขระพิเศษ",module,Magento_Customer
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","รหัสผ่านต้องมีชนิดของตัวอักษรแตกต่างกันอย่างน้อย %1 ชนิด โดยชนิดของตัวอักษรมีดังนี้ ตัวพิมพ์เล็ก, ตัวพิมพ์ใหญ่, ตัวเลข, อักขระพิเศษ",module,Magento_Ui
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","รหัสผ่านต้องมีชนิดของตัวอักษรแตกต่างกันอย่างน้อย %1 ชนิด โดยชนิดของตัวอักษรมีดังนี้ ตัวพิมพ์เล็ก, ตัวพิมพ์ใหญ่, ตัวเลข, อักขระพิเศษ",lib,web
+"Starting at","ราคาเริ่มต้น",module,Magento_GroupedProduct
+"This product is out of stock.","สินค้าหมด",module,Magento_CatalogInventory
